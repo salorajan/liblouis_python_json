@@ -9,10 +9,14 @@ const fileInput = document.getElementById('fileInput');
 
 async function setup() {
     try {
-        pyodide = await loadPyodide();
-        statusEl.innerText = "Initializing Python Environment...";
+        statusEl.innerText = "Loading Pyodide from CDN...";
+        // Explicitly set indexURL to ensure Pyodide loads its components from the CDN
+        pyodide = await loadPyodide({
+            indexURL: "https://cdn.jsdelivr.net/pyodide/v0.25.0/full/"
+        });
         
-        // 1. Fetch assets for the virtual filesystem
+        statusEl.innerText = "Initializing File System...";
+        
         const files = [
             'init.py',
             'python_liblouis_json/__init__.py',
@@ -27,39 +31,62 @@ async function setup() {
             'tables_json/en-ueb-g2.json'
         ];
 
+        const homeDir = '/home/pyodide';
+        // Try to create homeDir if it doesn't exist (though usually it does)
+        try { pyodide.FS.mkdirTree(homeDir); } catch(e) {}
+        pyodide.FS.chdir(homeDir);
+
         for (const file of files) {
+            statusEl.innerText = `Fetching ${file}...`;
+            // Ensure we are fetching relative to the current index.html location
             const response = await fetch(file);
-            if (!response.ok) throw new Error(`Failed to fetch ${file}: ${response.statusText}`);
+            if (!response.ok) {
+                throw new Error(`Failed to fetch ${file} (HTTP ${response.status})`);
+            }
             const data = new Uint8Array(await response.arrayBuffer());
             
-            // Handle subdirectory files
+            // Extract directory path and create it
             const parts = file.split('/');
             if (parts.length > 1) {
-                let current = '';
-                for (let i = 0; i < parts.length - 1; i++) {
-                    current += (current ? '/' : '') + parts[i];
-                    try {
-                        pyodide.FS.mkdir(current);
-                    } catch (e) {
-                        if (e.name !== 'ErrnoError' || e.errno !== 17) throw e;
-                    }
+                const dirPath = parts.slice(0, -1).join('/');
+                const fullDirPath = homeDir + '/' + dirPath;
+                try {
+                    pyodide.FS.mkdirTree(fullDirPath);
+                } catch (e) {
+                    // Ignore errors if directory exists
                 }
             }
-            pyodide.FS.writeFile(file, data);
+            
+            const fullFilePath = homeDir + '/' + file;
+            pyodide.FS.writeFile(fullFilePath, data);
+            console.log(`Successfully wrote: ${fullFilePath}`);
         }
 
-        // 2. Import and initialize
-        const initResponse = await fetch('init.py');
-        if (!initResponse.ok) throw new Error(`Failed to fetch init.py: ${initResponse.statusText}`);
-        await pyodide.runPythonAsync(await initResponse.text());
+        statusEl.innerText = "Initializing Python Engine...";
+        const initCode = pyodide.FS.readFile(homeDir + '/init.py', { encoding: 'utf8' });
+        
+        // Add homeDir to sys.path to ensure imports work correctly
+        await pyodide.runPythonAsync(`
+import sys
+import os
+sys.path.append('${homeDir}')
+os.chdir('${homeDir}')
+        `);
+        
+        await pyodide.runPythonAsync(initCode);
         await pyodide.runPythonAsync(`initialize_engine("${getSelectedTable()}")`);
 
         statusEl.innerText = "Ready - UEB English";
         statusEl.className = "status ready";
         enableUI();
     } catch (err) {
-        statusEl.innerText = "Error: " + err.message;
-        console.error(err);
+        statusEl.innerText = "Initialization Error: " + (err.message || err);
+        statusEl.className = "status";
+        console.error("Detailed Setup Error:", err);
+        
+        if (window.location.protocol === 'file:') {
+            statusEl.innerText += " (CORS Error: You must use a web server, not file://)";
+        }
     }
 }
 
@@ -80,9 +107,14 @@ function enableUI() {
 
 async function updateTable() {
     statusEl.innerText = "Switching Grade...";
-    await pyodide.runPythonAsync(`initialize_engine("${getSelectedTable()}")`);
-    statusEl.innerText = "Ready - " + (g1Radio.checked ? "Grade 1" : "Grade 2");
-    doForward(); // Refresh current translation
+    try {
+        await pyodide.runPythonAsync(`initialize_engine("${getSelectedTable()}")`);
+        statusEl.innerText = "Ready - " + (g1Radio.checked ? "Grade 1" : "Grade 2");
+        doForward(); // Refresh current translation
+    } catch (err) {
+        statusEl.innerText = "Error switching table: " + err.message;
+        console.error(err);
+    }
 }
 
 async function doForward() {
