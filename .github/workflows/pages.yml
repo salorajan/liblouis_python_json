@@ -1,6 +1,6 @@
-﻿# Version: 1.0.2
-# Created: 2026-05-21 08:23:00 MST
-# Description: WCAG 2.1 compliant GitHub Actions workflow for static deployment of liblouis_python_json
+﻿# Version: 1.0.3
+# Created: 2026-05-21 08:45:00 MST
+# Description: Bootstrapping workflow to initialize the uncreated GitHub Pages site entity
 name: Deploy static content to Pages
 on:
   push:
@@ -22,8 +22,10 @@ jobs:
     steps:
       - name: 1.0 Checkout repository
         uses: actions/checkout@v4
-      - name: 2.0 Setup Pages configuration
-        uses: actions/configure-pages@v5
+      # Step 2.0 is bypassed on version 1.0.3 to resolve the initial 404 setup paradox
+      # - name: 2.0 Setup Pages configuration
+      #   uses: actions/configure-pages@v5
+       Wilk
       - name: 3.0 Upload static artifact
         uses: actions/upload-pages-artifact@v3
         with:
