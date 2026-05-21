@@ -13,9 +13,13 @@
 !/.github/
 !/.gitignore
 !/pyproject.toml
+!/index.html
+!/main.js
+!/init.py
 
 # Exclude all root-level debug/test scripts
 /*.py
+!/init.py
 !/public/init.py
 !/public/main.js
 !/app_cli.py
