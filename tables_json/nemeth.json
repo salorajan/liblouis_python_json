@@ -1,0 +1,8031 @@
+{
+  "settings": {
+    "number_sign": "3456",
+    "caps_letter": "6",
+    "beg_caps_word": "6-6",
+    "end_caps_word": "6-3",
+    "litdigits": {}
+  },
+  "characters": [
+    {
+      "char": "\t",
+      "dots": "a",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "\u001b",
+      "dots": "a",
+      "attributes": [
+        "space",
+        "sign"
+      ]
+    },
+    {
+      "char": "\u00a0",
+      "dots": "a",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": " ",
+      "dots": "a",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "\u0000",
+      "dots": "0",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\n",
+      "dots": "0",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "\u000b",
+      "dots": "0",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "\f",
+      "dots": "0",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "\r",
+      "dots": "0",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "\u2000",
+      "dots": "0",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "\u2001",
+      "dots": "0",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "\u2002",
+      "dots": "0",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "\u2003",
+      "dots": "0",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "\u2004",
+      "dots": "0",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "\u2005",
+      "dots": "0",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "\u2006",
+      "dots": "0",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "\u2007",
+      "dots": "a",
+      "attributes": [
+        "math",
+        "space"
+      ]
+    },
+    {
+      "char": "\u2008",
+      "dots": "a",
+      "attributes": [
+        "math",
+        "space"
+      ]
+    },
+    {
+      "char": "\u2009",
+      "dots": "a",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "\u200a",
+      "dots": "a",
+      "attributes": [
+        "math",
+        "space"
+      ]
+    },
+    {
+      "char": "\u200b",
+      "dots": "a",
+      "attributes": [
+        "math",
+        "space"
+      ]
+    },
+    {
+      "char": "\u2028",
+      "dots": "0",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "\u2029",
+      "dots": "0",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "\u202f",
+      "dots": "0",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "\u205f",
+      "dots": "a",
+      "attributes": [
+        "math",
+        "space"
+      ]
+    },
+    {
+      "char": "\u2060",
+      "dots": "0",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "\u2800",
+      "dots": "0",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "\ufeff",
+      "dots": "0",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "0",
+      "dots": "356",
+      "attributes": [
+        "digit"
+      ]
+    },
+    {
+      "char": "1",
+      "dots": "2",
+      "attributes": [
+        "digit"
+      ]
+    },
+    {
+      "char": "2",
+      "dots": "23",
+      "attributes": [
+        "digit"
+      ]
+    },
+    {
+      "char": "3",
+      "dots": "25",
+      "attributes": [
+        "digit"
+      ]
+    },
+    {
+      "char": "4",
+      "dots": "256",
+      "attributes": [
+        "digit"
+      ]
+    },
+    {
+      "char": "5",
+      "dots": "26",
+      "attributes": [
+        "digit"
+      ]
+    },
+    {
+      "char": "6",
+      "dots": "235",
+      "attributes": [
+        "digit"
+      ]
+    },
+    {
+      "char": "7",
+      "dots": "2356",
+      "attributes": [
+        "digit"
+      ]
+    },
+    {
+      "char": "8",
+      "dots": "236",
+      "attributes": [
+        "digit"
+      ]
+    },
+    {
+      "char": "9",
+      "dots": "35",
+      "attributes": [
+        "digit"
+      ]
+    },
+    {
+      "char": "a",
+      "dots": "1",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "b",
+      "dots": "12",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "c",
+      "dots": "14",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "d",
+      "dots": "145",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "e",
+      "dots": "15",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "f",
+      "dots": "124",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "g",
+      "dots": "1245",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "h",
+      "dots": "125",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "i",
+      "dots": "24",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "j",
+      "dots": "245",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "k",
+      "dots": "13",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "l",
+      "dots": "123",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "m",
+      "dots": "134",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "n",
+      "dots": "1345",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "o",
+      "dots": "135",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "p",
+      "dots": "1234",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "q",
+      "dots": "12345",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "r",
+      "dots": "1235",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "s",
+      "dots": "234",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "t",
+      "dots": "2345",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "u",
+      "dots": "136",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "v",
+      "dots": "1236",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "w",
+      "dots": "2456",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "x",
+      "dots": "1346",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "y",
+      "dots": "13456",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "z",
+      "dots": "1356",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "(",
+      "dots": "12356",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "}",
+      "dots": "12456",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "]",
+      "dots": "124567",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "?",
+      "dots": "236",
+      "attributes": [
+        "postpunc",
+        "punctuation"
+      ]
+    },
+    {
+      "char": ":",
+      "dots": "25",
+      "attributes": [
+        "postpunc",
+        "punctuation"
+      ]
+    },
+    {
+      "char": ")",
+      "dots": "23456",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "!",
+      "dots": "235",
+      "attributes": [
+        "postpunc",
+        "punctuation"
+      ]
+    },
+    {
+      "char": "{",
+      "dots": "246",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "[",
+      "dots": "2467",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "'",
+      "dots": "356-3",
+      "attributes": [
+        "prepunc",
+        "postpunc",
+        "punctuation"
+      ]
+    },
+    {
+      "char": "-",
+      "dots": "36",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": ".",
+      "dots": "256",
+      "attributes": [
+        "postpunc",
+        "punctuation"
+      ]
+    },
+    {
+      "char": ";",
+      "dots": "23",
+      "attributes": [
+        "postpunc",
+        "punctuation"
+      ]
+    },
+    {
+      "char": ",",
+      "dots": "2",
+      "attributes": [
+        "postpunc",
+        "punctuation"
+      ]
+    },
+    {
+      "char": "&",
+      "dots": "12346",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "$",
+      "dots": "1246",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "|",
+      "dots": "1256",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\\\\",
+      "dots": "12567",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "%",
+      "dots": "146",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "*",
+      "dots": "4-3456",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "`",
+      "dots": "6-236",
+      "attributes": [
+        "prepunc",
+        "punctuation"
+      ]
+    },
+    {
+      "char": "_",
+      "dots": "456",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "^",
+      "dots": "456-126",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "@",
+      "dots": "47",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "=",
+      "dots": "123456",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "<",
+      "dots": "126",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "/",
+      "dots": "34",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": ">",
+      "dots": "345",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "+",
+      "dots": "346",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "~",
+      "dots": "45",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u00df",
+      "dots": "4-234",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u00e0",
+      "dots": "4-1",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u00e1",
+      "dots": "4-1",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u00e2",
+      "dots": "4-1",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u00e3",
+      "dots": "4-1",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u00e4",
+      "dots": "4-1",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u00e5",
+      "dots": "4-1",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u00e6",
+      "dots": "4-1",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u00e7",
+      "dots": "4-14",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u00e8",
+      "dots": "4-15",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u00e9",
+      "dots": "4-15",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u00ea",
+      "dots": "4-15",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u00eb",
+      "dots": "4-15",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u00ec",
+      "dots": "4-24",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u00ed",
+      "dots": "4-24",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u00ee",
+      "dots": "4-24",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u00ef",
+      "dots": "4-24",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u00f0",
+      "dots": "4-15",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u00f1",
+      "dots": "4-1345",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u00f2",
+      "dots": "4-135",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u00f3",
+      "dots": "4-135",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u00f4",
+      "dots": "4-135",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u00f5",
+      "dots": "4-135",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u00f6",
+      "dots": "4-135",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u0151",
+      "dots": "4-135",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u00f8",
+      "dots": "4-135",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u00f9",
+      "dots": "4-136",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u00fa",
+      "dots": "4-136",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u00fb",
+      "dots": "4-136",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u00fc",
+      "dots": "4-136",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u0171",
+      "dots": "4-136",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u00fd",
+      "dots": "4-13456",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u00fe",
+      "dots": "4-2345",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u00ff",
+      "dots": "4-13456",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u00c0",
+      "dots": "4-1",
+      "attributes": [
+        "uppercase"
+      ]
+    },
+    {
+      "char": "\u00c1",
+      "dots": "4-1",
+      "attributes": [
+        "uppercase"
+      ]
+    },
+    {
+      "char": "\u00c2",
+      "dots": "4-1",
+      "attributes": [
+        "uppercase"
+      ]
+    },
+    {
+      "char": "\u00c3",
+      "dots": "4-1",
+      "attributes": [
+        "uppercase"
+      ]
+    },
+    {
+      "char": "\u00c4",
+      "dots": "4-1",
+      "attributes": [
+        "uppercase"
+      ]
+    },
+    {
+      "char": "\u00c5",
+      "dots": "4-1",
+      "attributes": [
+        "uppercase"
+      ]
+    },
+    {
+      "char": "\u00c6",
+      "dots": "4-1",
+      "attributes": [
+        "uppercase"
+      ]
+    },
+    {
+      "char": "\u00c7",
+      "dots": "4-14",
+      "attributes": [
+        "uppercase"
+      ]
+    },
+    {
+      "char": "\u00c8",
+      "dots": "4-15",
+      "attributes": [
+        "uppercase"
+      ]
+    },
+    {
+      "char": "\u00c9",
+      "dots": "4-15",
+      "attributes": [
+        "uppercase"
+      ]
+    },
+    {
+      "char": "\u00ca",
+      "dots": "4-15",
+      "attributes": [
+        "uppercase"
+      ]
+    },
+    {
+      "char": "\u00cb",
+      "dots": "4-15",
+      "attributes": [
+        "uppercase"
+      ]
+    },
+    {
+      "char": "\u00cc",
+      "dots": "4-24",
+      "attributes": [
+        "uppercase"
+      ]
+    },
+    {
+      "char": "\u00cd",
+      "dots": "4-24",
+      "attributes": [
+        "uppercase"
+      ]
+    },
+    {
+      "char": "\u00ce",
+      "dots": "4-24",
+      "attributes": [
+        "uppercase"
+      ]
+    },
+    {
+      "char": "\u00cf",
+      "dots": "4-24",
+      "attributes": [
+        "uppercase"
+      ]
+    },
+    {
+      "char": "\u00d0",
+      "dots": "4-15",
+      "attributes": [
+        "uppercase"
+      ]
+    },
+    {
+      "char": "\u00d1",
+      "dots": "4-1345",
+      "attributes": [
+        "uppercase"
+      ]
+    },
+    {
+      "char": "\u00d2",
+      "dots": "4-135",
+      "attributes": [
+        "uppercase"
+      ]
+    },
+    {
+      "char": "\u00d3",
+      "dots": "4-135",
+      "attributes": [
+        "uppercase"
+      ]
+    },
+    {
+      "char": "\u00d4",
+      "dots": "4-135",
+      "attributes": [
+        "uppercase"
+      ]
+    },
+    {
+      "char": "\u00d6",
+      "dots": "4-135",
+      "attributes": [
+        "uppercase"
+      ]
+    },
+    {
+      "char": "\u00d8",
+      "dots": "4-135",
+      "attributes": [
+        "uppercase"
+      ]
+    },
+    {
+      "char": "\u0150",
+      "dots": "4-135",
+      "attributes": [
+        "uppercase"
+      ]
+    },
+    {
+      "char": "\u00d9",
+      "dots": "4-136",
+      "attributes": [
+        "uppercase"
+      ]
+    },
+    {
+      "char": "\u00da",
+      "dots": "4-136",
+      "attributes": [
+        "uppercase"
+      ]
+    },
+    {
+      "char": "\u00db",
+      "dots": "4-136",
+      "attributes": [
+        "uppercase"
+      ]
+    },
+    {
+      "char": "\u00dc",
+      "dots": "4-136",
+      "attributes": [
+        "uppercase"
+      ]
+    },
+    {
+      "char": "\u0170",
+      "dots": "4-136",
+      "attributes": [
+        "uppercase"
+      ]
+    },
+    {
+      "char": "\u00dd",
+      "dots": "4-13456",
+      "attributes": [
+        "uppercase"
+      ]
+    },
+    {
+      "char": "\u00de",
+      "dots": "4-2345",
+      "attributes": [
+        "uppercase"
+      ]
+    },
+    {
+      "char": "\u00b1",
+      "dots": "346-36",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u00b7",
+      "dots": "16",
+      "attributes": [
+        "math",
+        "sign"
+      ]
+    },
+    {
+      "char": "\u00bc",
+      "dots": "1456-2-34-256-3456",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u00bd",
+      "dots": "1456-2-34-23-3456",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u00be",
+      "dots": "1456-25-34-256-3456",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u00d7",
+      "dots": "4-16",
+      "attributes": [
+        "math",
+        "sign"
+      ]
+    },
+    {
+      "char": "\u00f7",
+      "dots": "46-34",
+      "attributes": [
+        "math",
+        "sign"
+      ]
+    },
+    {
+      "char": "\u0092",
+      "dots": "3",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\u0097",
+      "dots": "0",
+      "attributes": [
+        "space",
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\u00a1",
+      "dots": "235",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\u00ad",
+      "dots": "0",
+      "attributes": [
+        "space",
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\u00bf",
+      "dots": "236",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\u2011",
+      "dots": "36",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\u2013",
+      "dots": "36-36",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\u2014",
+      "dots": "36-36",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\u2018",
+      "dots": "6-236",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\u2019",
+      "dots": "356-3",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\u201c",
+      "dots": "236",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\u201d",
+      "dots": "356",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\u2022",
+      "dots": "35-35",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2026",
+      "dots": "0-3-3-3-0",
+      "attributes": [
+        "math",
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\u2122",
+      "dots": "45-2345",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u00a2",
+      "dots": "4-14",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u00a3",
+      "dots": "3456",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u00a4",
+      "dots": "1246",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u00a7",
+      "dots": "4-6-234",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u00a9",
+      "dots": "12356-6-14-23456",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u00ae",
+      "dots": "45-1235",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u00b0",
+      "dots": "56-145-1245",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u00b4",
+      "dots": "b4",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u00b5",
+      "dots": "46-134",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u00a5",
+      "dots": "4-13456",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u20a3",
+      "dots": "4-124",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u20a6",
+      "dots": "4-1345",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u20ac",
+      "dots": "4-15",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u00a6",
+      "dots": "456-1256",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\u0093",
+      "dots": "236",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\u0094",
+      "dots": "5",
+      "attributes": [
+        "sign",
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\u0095",
+      "dots": "456-256",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u0096",
+      "dots": "36",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\u25cb",
+      "dots": "1246-14",
+      "attributes": [
+        "math",
+        "sign"
+      ]
+    },
+    {
+      "char": "\u25cf",
+      "dots": "1246-456-14",
+      "attributes": [
+        "math",
+        "sign"
+      ]
+    },
+    {
+      "char": "\u25d8",
+      "dots": "456-256",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u25d9",
+      "dots": "456-256",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u02bc",
+      "dots": "12",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2146",
+      "dots": "145",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2147",
+      "dots": "4-56-15",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2062",
+      "dots": "a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2063",
+      "dots": "a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2061",
+      "dots": "a",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "\u009a",
+      "dots": "a",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u00a8",
+      "dots": "16-16",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u00ac",
+      "dots": "4-1456",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u00af",
+      "dots": "156",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u02d9",
+      "dots": "16",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2213",
+      "dots": "36-346",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2215",
+      "dots": "456-34",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2216",
+      "dots": "456-16",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2715",
+      "dots": "4-16",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u27e6",
+      "dots": "4-456-12356",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u27e7",
+      "dots": "4-456-23456",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u27e8",
+      "dots": "46-46-12356",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u27e9",
+      "dots": "46-46-23456",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2983",
+      "dots": "46-456-12356",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2984",
+      "dots": "46-456-23456",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2af4",
+      "dots": "1256-1256-1256",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u0391",
+      "dots": "46-6-1",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u0392",
+      "dots": "46-6-12",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u0393",
+      "dots": "46-6-1245",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u0394",
+      "dots": "46-6-145",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u0395",
+      "dots": "46-6-15",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u0396",
+      "dots": "46-6-1356",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u0397",
+      "dots": "46-6-156",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u0398",
+      "dots": "46-6-1456",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u0399",
+      "dots": "46-6-24",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u039a",
+      "dots": "46-6-13",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u039b",
+      "dots": "46-6-123",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u039c",
+      "dots": "46-6-134",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u039d",
+      "dots": "46-6-1345",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u039e",
+      "dots": "46-6-1346",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u039f",
+      "dots": "46-6-135",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u03a0",
+      "dots": "46-6-1234",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u03a1",
+      "dots": "46-6-1235",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u03a3",
+      "dots": "46-6-234",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u03a4",
+      "dots": "46-6-2345",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u03a5",
+      "dots": "46-6-136",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u03a6",
+      "dots": "46-6-124",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u03a7",
+      "dots": "46-6-12346",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u03a8",
+      "dots": "46-6-13456",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u03a9",
+      "dots": "46-6-2456",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u03b1",
+      "dots": "46-1",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u03b2",
+      "dots": "46-12",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u03b3",
+      "dots": "46-1245",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u03b4",
+      "dots": "46-145",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u03b5",
+      "dots": "46-15",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u03b6",
+      "dots": "46-1356",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u03b7",
+      "dots": "46-156",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u03b8",
+      "dots": "46-1456",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u03b9",
+      "dots": "46-24",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u03ba",
+      "dots": "46-13",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u03bb",
+      "dots": "46-123",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u03bc",
+      "dots": "46-134",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u03bd",
+      "dots": "46-1345",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u03be",
+      "dots": "46-1346",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u03bf",
+      "dots": "46-135",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u03c0",
+      "dots": "46-1234",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u03c1",
+      "dots": "46-1235",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u03c2",
+      "dots": "46-25",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u03c3",
+      "dots": "46-234",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u03c4",
+      "dots": "46-2345",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u03c5",
+      "dots": "46-136",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u03c6",
+      "dots": "46-124",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u03c7",
+      "dots": "46-12346",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u03c8",
+      "dots": "46-13456",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u03c9",
+      "dots": "46-2456",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u03d1",
+      "dots": "46-4-1456",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u03d5",
+      "dots": "46-4-124",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u03d6",
+      "dots": "46-4-1234",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u03f0",
+      "dots": "46-4-13",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u03f1",
+      "dots": "46-4-1235",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u03f5",
+      "dots": "46-4-15",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2015",
+      "dots": "156",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2016",
+      "dots": "1256-1256",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2020",
+      "dots": "456-12456",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2021",
+      "dots": "456-456-12456",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2030",
+      "dots": "4-356-356",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2031",
+      "dots": "4-356-356-356",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2032",
+      "dots": "3",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2033",
+      "dots": "3-3",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u203e",
+      "dots": "156",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2044",
+      "dots": "456-34",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2102",
+      "dots": "4-56-6-14",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2113",
+      "dots": "4-123",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u2114",
+      "dots": "1256",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2115",
+      "dots": "4-56-6-1345",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u211d",
+      "dots": "4-56-6-1235",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2124",
+      "dots": "4-56-6-1356",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2308",
+      "dots": "4-45-12356",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2309",
+      "dots": "4-45-23456",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u230a",
+      "dots": "4-56-12356",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u230b",
+      "dots": "4-56-23456",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2322",
+      "dots": "1246-1",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2323",
+      "dots": "1246-3",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2217",
+      "dots": "4-3456",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2218",
+      "dots": "45-46-16-5",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u212b",
+      "dots": "a-4-6-1",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2295",
+      "dots": "1246-14-456-1246-346-12456",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2296",
+      "dots": "1246-14-456-1246-36-12456",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2297",
+      "dots": "1246-14-456-1246-4-16-12456",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2298",
+      "dots": "1246-14-456-1246-456-34-12456",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2299",
+      "dots": "1246-14-456-1246-16-12456",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u229b",
+      "dots": "1246-14-456-1246-4-3456-12456",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u229c",
+      "dots": "1246-14-456-1246-46-13-12456",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u229d",
+      "dots": "1246-14-456-1246-36-36-12456",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u229e",
+      "dots": "1246-256-456-1246-346-12456",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u229f",
+      "dots": "1246-256-456-1246-36-12456",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u22a0",
+      "dots": "1246-256-456-1246-4-16-12456",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u22a1",
+      "dots": "1246-256-456-1246-16-12456",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u22ee",
+      "dots": "0-146-25-25-25-0",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u22ef",
+      "dots": "0-25-25-25-0",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u22f0",
+      "dots": "0-45-25-25-25-0",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u22f1",
+      "dots": "0-56-25-25-25-0",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u23de",
+      "dots": "46-12356",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u23df",
+      "dots": "46-23456",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2190",
+      "dots": "a-1246-246-25-25-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2191",
+      "dots": "a-1246-126-25-25-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2192",
+      "dots": "a-1246-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2193",
+      "dots": "a-1246-146-25-25-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2194",
+      "dots": "a-1246-246-25-25-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2195",
+      "dots": "a-1246-126-146-246-25-25-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2196",
+      "dots": "a-1246-45-246-25-25-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2197",
+      "dots": "a-1246-45-25-25-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2198",
+      "dots": "a-1246-56-25-25-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2199",
+      "dots": "a-1246-56-246-25-25-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u219a",
+      "dots": "a-1256-4-1246-246-25-25-12456-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u219b",
+      "dots": "a-1256-4-1246-25-25-135-12456-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u219c",
+      "dots": "a-1246-246-35-25-26-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u219d",
+      "dots": "a-1246-35-25-26-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u219e",
+      "dots": "a-1246-246-246-25-25-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u219f",
+      "dots": "a-1246-126-25-25-135-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21a0",
+      "dots": "a-1246-25-25-135-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21a1",
+      "dots": "a-1246-146-25-25-135-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21a2",
+      "dots": "a-1246-246-25-25-6-13456-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21a3",
+      "dots": "a-1246-6-12346-25-25-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21a4",
+      "dots": "a-1246-246-25-25-1256-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21a5",
+      "dots": "a-1246-126-1256-25-25-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21a6",
+      "dots": "a-1246-1256-25-25-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21a7",
+      "dots": "a-1246-146-1256-25-25-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21a8",
+      "dots": "a-1246-246-25-1256-25-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21a9",
+      "dots": "a-1246-246-25-25-6-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21aa",
+      "dots": "a-1246-6-246-25-25-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21ab",
+      "dots": "a-1246-246-25-25-46-16-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21ac",
+      "dots": "a-1246-46-16-25-25-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21ad",
+      "dots": "a-1246-246-35-25-26-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21ae",
+      "dots": "a-1256-4-1246-246-25-25-135-12456-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21af",
+      "dots": "a-1246-146-35-26-35-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21b4",
+      "dots": "a-1246-6-1256-25-25-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21b5",
+      "dots": "a-1246-146-6-1256-25-25-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21b6",
+      "dots": "a-1246-26-35-0-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21b7",
+      "dots": "a-1246-246-26-0-35-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21ba",
+      "dots": "a-1246-26-35-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21bb",
+      "dots": "a-1246-246-26-35-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21bc",
+      "dots": "a-1246-4-246-25-25-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21bd",
+      "dots": "a-1246-6-246-25-25-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21be",
+      "dots": "a-1246-126-25-25-6-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21bf",
+      "dots": "a-1246-126-25-25-4-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21c0",
+      "dots": "a-1246-25-25-4-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21c1",
+      "dots": "a-1246-25-25-6-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21c2",
+      "dots": "a-1246-246-25-25-4-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21c3",
+      "dots": "a-1246-146-25-25-6-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21c4",
+      "dots": "1246-25-25-135-1246-246-25-25",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21c5",
+      "dots": "1246-126-25-25-135-5-1246-146-25-25-135",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21c6",
+      "dots": "1246-246-25-25-1246-25-25-135",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21c7",
+      "dots": "1246-245-25-25-1246-245-25-25",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21c8",
+      "dots": "1246-126-25-25-135-5-1246-126-25-25-135",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21c9",
+      "dots": "1246-25-25-135-1246-25-25-135",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21ca",
+      "dots": "a-1246-146-25-25-135-5-1246-146-25-25-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21cb",
+      "dots": "a-1246-4-246-25-25-1246-25-25-4-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21cc",
+      "dots": "a-1246-25-25-4-135-1246-4-246-25-25-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21cd",
+      "dots": "a-1256-4-1246-246-2356-2356-12456-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21ce",
+      "dots": "a-1256-4-1246-246-2356-2356-135-12456-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21cf",
+      "dots": "a-1256-4-1246-2356-2356-135-12456-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21d0",
+      "dots": "a-1246-246-2356-2356-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21d1",
+      "dots": "a-1246-126-2356-2356-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21d2",
+      "dots": "a-1246-2356-2356-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21d3",
+      "dots": "a-1246-126-2356-2356-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21d4",
+      "dots": "a-1246-246-2356-2356-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21d5",
+      "dots": "a-1246-126-246-2356-2356-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21d6",
+      "dots": "a-1246-45-246-2356-2356-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21d7",
+      "dots": "a-1246-45-2356-2356-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21d8",
+      "dots": "a-1246-56-2356-2356-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21d9",
+      "dots": "a-1246-56-246-2356-2356-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21da",
+      "dots": "a-1246-246-456-456-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21db",
+      "dots": "a-1246-456-456-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21dc",
+      "dots": "a-1246-246-26-36-35-25-26-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21dd",
+      "dots": "a-1246-26-36-35-25-26-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21de",
+      "dots": "a-1256-1256-4-1246-126-25-25-135-12456-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21df",
+      "dots": "a-1256-1256-4-1246-146-25-25-135-12456-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21e0",
+      "dots": "a-1246-246-25-0-25-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21e1",
+      "dots": "a-1246-126-25-0-25-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21e2",
+      "dots": "a-1246-25-0-25-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21e3",
+      "dots": "a-1246-146-25-a-25-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21e4",
+      "dots": "a-1246-1256-246-25-25-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21e5",
+      "dots": "a-1246-25-25-135-1256-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21e6",
+      "dots": "a-1246-456-246-25-25-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21e7",
+      "dots": "a-1246-126-456-25-25-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21e8",
+      "dots": "a-1246-456-25-25-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21e9",
+      "dots": "a-1246-146-456-25-25-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21f3",
+      "dots": "a-1246-126-456-246-25-25-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21f4",
+      "dots": "a-46-16-4-1246-25-25-135-12456-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21f5",
+      "dots": "a-1246-146-25-25-135-5-1246-126-25-25-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21f6",
+      "dots": "a-1246-25-25-135-1246-25-25-135-1246-25-25-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21f7",
+      "dots": "a-1256-4-1246-246-25-25-12456-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21f8",
+      "dots": "a-1256-4-1246-25-25-135-12456-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21f9",
+      "dots": "a-1256-4-1246-246-25-25-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21fa",
+      "dots": "a-1256-1256-4-1246-246-25-25-12456-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21fb",
+      "dots": "a-1256-1256-4-1246-25-25-135-12456-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21fc",
+      "dots": "a-1256-1256-4-1246-246-25-25-135-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21fd",
+      "dots": "a-1246-1256-25-25-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21fe",
+      "dots": "a-1246-25-25-1256-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u21ff",
+      "dots": "a-1246-1256-25-25-1256-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2207",
+      "dots": "46-1246",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2200",
+      "dots": "4-12346",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2234",
+      "dots": "a-6-16-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2235",
+      "dots": "a-4-34-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u220e",
+      "dots": "a-456-1256-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2208",
+      "dots": "a-4-15-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2209",
+      "dots": "a-34-4-15-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u220b",
+      "dots": "a-4-26-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u220c",
+      "dots": "a-34-4-26-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u220d",
+      "dots": "4-26",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u220f",
+      "dots": "46-6-1234",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u22c5",
+      "dots": "16",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2211",
+      "dots": "46-6-234",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2212",
+      "dots": "36",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u221e",
+      "dots": "6-123456",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2227",
+      "dots": "4-146",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2228",
+      "dots": "4-346",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u222b",
+      "dots": "2346",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u222c",
+      "dots": "2346-2346",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u222d",
+      "dots": "2346-2346-2346",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u222e",
+      "dots": "2346-4-1246-14-12456",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2232",
+      "dots": "2346-4-1246-246-26-35-12456",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2233",
+      "dots": "2346-4-1246-26-35-135-12456",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2260",
+      "dots": "a-34-46-13-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2261",
+      "dots": "a-456-123-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2262",
+      "dots": "a-34-456-123-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u223c",
+      "dots": "a-4-156-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2245",
+      "dots": "a-4-156-46-13-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2248",
+      "dots": "a-4-156-4-156-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u224d",
+      "dots": "a-4-126-6-126-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2264",
+      "dots": "a-5-13-156-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2266",
+      "dots": "a-5-13-46-13-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2265",
+      "dots": "a-46-2-156-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2267",
+      "dots": "a-46-2-46-13-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2268",
+      "dots": "a-5-13-34-46-13-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2269",
+      "dots": "a-46-2-34-46-13-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u22d8",
+      "dots": "a-5-13-4-5-13-4-5-13-12456-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u22d9",
+      "dots": "a-46-2-4-46-2-4-46-2-12456-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u22dc",
+      "dots": "a-156-5-13-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u22dd",
+      "dots": "a-156-46-2-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u226a",
+      "dots": "a-5-13-4-5-13-12456-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u226b",
+      "dots": "a-46-2-4-46-2-12456-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u226d",
+      "dots": "a-34-4-126-6-126-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u226e",
+      "dots": "a-34-5-13-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u226f",
+      "dots": "a-34-46-2-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2270",
+      "dots": "a-34-5-13-156-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2271",
+      "dots": "a-34-46-2-156-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2272",
+      "dots": "a-5-13-456-123-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2273",
+      "dots": "a-46-2-456-123-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2274",
+      "dots": "a-34-5-13-456-123-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2275",
+      "dots": "a-34-46-2-456-123-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2276",
+      "dots": "a-5-13-46-2-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2277",
+      "dots": "a-46-2-5-13-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2278",
+      "dots": "a-34-5-13-46-2-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2279",
+      "dots": "a-34-46-2-5-13-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\uf577",
+      "dots": "1246-135",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2229",
+      "dots": "46-146",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u222a",
+      "dots": "46-346",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2282",
+      "dots": "a-456-5-13-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2283",
+      "dots": "a-456-46-2-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2284",
+      "dots": "a-34-456-5-13-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2285",
+      "dots": "a-34-456-46-2-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2286",
+      "dots": "a-456-5-13-156-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2287",
+      "dots": "a-456-46-2-156-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2288",
+      "dots": "a-34-456-5-13-156-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2289",
+      "dots": "a-34-456-46-2-156-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u228a",
+      "dots": "a-456-5-13-34-46-13-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u228b",
+      "dots": "a-456-46-2-34-46-13-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2203",
+      "dots": "4-123456",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2204",
+      "dots": "34-4-123456",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2202",
+      "dots": "4-145",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2205",
+      "dots": "456-356",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u23e2",
+      "dots": "1246-1356",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u25b2",
+      "dots": "1246-456-2345",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u25b3",
+      "dots": "1246-2345",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u25b5",
+      "dots": "1246-2345",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u25bc",
+      "dots": "456-46-1246",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u25bd",
+      "dots": "46-1246",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u25a0",
+      "dots": "1246-456-256",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u25a1",
+      "dots": "1246-256",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u25ac",
+      "dots": "1246-456-1235",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u25ad",
+      "dots": "1246-1235",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u25b0",
+      "dots": "1246-456-1245",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u25b1",
+      "dots": "1246-1245",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u25ef",
+      "dots": "1246-14",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u22a5",
+      "dots": "a-34-1246-1234-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u22fe",
+      "dots": "1246-456-256",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2223",
+      "dots": "a-1256-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2224",
+      "dots": "a-34-1256-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2225",
+      "dots": "a-1246-123-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2226",
+      "dots": "a-34-1246-123-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u221f",
+      "dots": "1246-246-46-1235-12456",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2221",
+      "dots": "1246-246-4-1246-1-12456",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2222",
+      "dots": "1246-246-456-1246-1246-1-12456",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2220",
+      "dots": "1246-246",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u221d",
+      "dots": "a-456-123456-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2237",
+      "dots": "a-56-23-a",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2236",
+      "dots": "a-5-2-a",
+      "attributes": [
+        "math"
+      ]
+    }
+  ],
+  "rules": [
+    {
+      "opcode": "always",
+      "text": "A",
+      "dots": "17",
+      "source": "latinUppercaseComp6.uti"
+    },
+    {
+      "opcode": "always",
+      "text": "B",
+      "dots": "127",
+      "source": "latinUppercaseComp6.uti"
+    },
+    {
+      "opcode": "always",
+      "text": "C",
+      "dots": "147",
+      "source": "latinUppercaseComp6.uti"
+    },
+    {
+      "opcode": "always",
+      "text": "D",
+      "dots": "1457",
+      "source": "latinUppercaseComp6.uti"
+    },
+    {
+      "opcode": "always",
+      "text": "E",
+      "dots": "157",
+      "source": "latinUppercaseComp6.uti"
+    },
+    {
+      "opcode": "always",
+      "text": "F",
+      "dots": "1247",
+      "source": "latinUppercaseComp6.uti"
+    },
+    {
+      "opcode": "always",
+      "text": "G",
+      "dots": "12457",
+      "source": "latinUppercaseComp6.uti"
+    },
+    {
+      "opcode": "always",
+      "text": "H",
+      "dots": "1257",
+      "source": "latinUppercaseComp6.uti"
+    },
+    {
+      "opcode": "always",
+      "text": "I",
+      "dots": "247",
+      "source": "latinUppercaseComp6.uti"
+    },
+    {
+      "opcode": "always",
+      "text": "J",
+      "dots": "2457",
+      "source": "latinUppercaseComp6.uti"
+    },
+    {
+      "opcode": "always",
+      "text": "K",
+      "dots": "137",
+      "source": "latinUppercaseComp6.uti"
+    },
+    {
+      "opcode": "always",
+      "text": "L",
+      "dots": "1237",
+      "source": "latinUppercaseComp6.uti"
+    },
+    {
+      "opcode": "always",
+      "text": "M",
+      "dots": "1347",
+      "source": "latinUppercaseComp6.uti"
+    },
+    {
+      "opcode": "always",
+      "text": "N",
+      "dots": "13457",
+      "source": "latinUppercaseComp6.uti"
+    },
+    {
+      "opcode": "always",
+      "text": "O",
+      "dots": "1357",
+      "source": "latinUppercaseComp6.uti"
+    },
+    {
+      "opcode": "always",
+      "text": "P",
+      "dots": "12347",
+      "source": "latinUppercaseComp6.uti"
+    },
+    {
+      "opcode": "always",
+      "text": "Q",
+      "dots": "123457",
+      "source": "latinUppercaseComp6.uti"
+    },
+    {
+      "opcode": "always",
+      "text": "R",
+      "dots": "12357",
+      "source": "latinUppercaseComp6.uti"
+    },
+    {
+      "opcode": "always",
+      "text": "S",
+      "dots": "2347",
+      "source": "latinUppercaseComp6.uti"
+    },
+    {
+      "opcode": "always",
+      "text": "T",
+      "dots": "23457",
+      "source": "latinUppercaseComp6.uti"
+    },
+    {
+      "opcode": "always",
+      "text": "U",
+      "dots": "1367",
+      "source": "latinUppercaseComp6.uti"
+    },
+    {
+      "opcode": "always",
+      "text": "V",
+      "dots": "12367",
+      "source": "latinUppercaseComp6.uti"
+    },
+    {
+      "opcode": "always",
+      "text": "W",
+      "dots": "24567",
+      "source": "latinUppercaseComp6.uti"
+    },
+    {
+      "opcode": "always",
+      "text": "X",
+      "dots": "13467",
+      "source": "latinUppercaseComp6.uti"
+    },
+    {
+      "opcode": "always",
+      "text": "Y",
+      "dots": "134567",
+      "source": "latinUppercaseComp6.uti"
+    },
+    {
+      "opcode": "always",
+      "text": "Z",
+      "dots": "13567",
+      "source": "latinUppercaseComp6.uti"
+    },
+    {
+      "opcode": "word",
+      "text": "'em",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "'tis",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "'twas",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": ".",
+      "dots": "256",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "/",
+      "dots": "456-34",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "<",
+      "dots": "0-5-13-0",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "=",
+      "dots": "0-46-13-0",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": ">",
+      "dots": "0-46-2-0",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "~",
+      "dots": "4-156",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "&",
+      "dots": "456-12346",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "{",
+      "dots": "46-12356",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "}",
+      "dots": "46-23456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "@",
+      "dots": "4-1",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "\\\\",
+      "dots": "456-16",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": " - ",
+      "dots": "36-36",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "...",
+      "dots": "3-3-3",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": ". . .",
+      "dots": "3-3-3",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "$",
+      "dots": "256-3456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "about",
+      "dots": "1-12",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "thereabouts",
+      "dots": "5-2346-1-12-234",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "runabout",
+      "dots": "1235-136-1345-1-12",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "ab",
+      "dots": "1-12",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "above",
+      "dots": "1-12-1236",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "abv",
+      "dots": "1-12-1236",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "according",
+      "dots": "1-14",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "ac",
+      "dots": "1-14",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "accordingly",
+      "dots": "1-14-123-13456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "acly",
+      "dots": "1-14-123-13456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "across",
+      "dots": "1-14-1235",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "acr",
+      "dots": "1-14-1235",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "aed",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "aer",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "aforem",
+      "dots": "1-123456-15-134",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "aforesaid",
+      "dots": "1-123456-15-234-145",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "after",
+      "dots": "1-124",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "af",
+      "dots": "1-124",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "afternoon",
+      "dots": "1-124-1345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "afn",
+      "dots": "1-124-1345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "afterward",
+      "dots": "1-124-2456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "afw",
+      "dots": "1-124-2456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "again",
+      "dots": "1-1245",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "ag",
+      "dots": "1-1245",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "against",
+      "dots": "1-1245-34",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "gery",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "ally",
+      "dots": "6-13456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "almost",
+      "dots": "1-123-134",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "alm",
+      "dots": "1-123-134",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "already",
+      "dots": "1-123-1235",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "alr",
+      "dots": "1-123-1235",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "also",
+      "dots": "1-123",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "al",
+      "dots": "1-123",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "although",
+      "dots": "1-123-1456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "altogether",
+      "dots": "1-123-2345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "alt",
+      "dots": "1-123-2345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "always",
+      "dots": "1-123-2456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "alw",
+      "dots": "1-123-2456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "ance",
+      "dots": "46-15",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "(and",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "and)",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "andar",
+      "dots": "12346-345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "anda",
+      "dots": "12346-1",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midword",
+      "text": "angh",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "aqued",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "ar",
+      "dots": "345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "aright",
+      "dots": "1-5-1235",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "as",
+      "dots": "1356",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "as",
+      "dots": "1-234",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "ation",
+      "dots": "6-1345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "aunder",
+      "dots": "1-136-1345-145-12456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "auto",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midword",
+      "text": "bb",
+      "dots": "23",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "bble",
+      "dots": "12-3456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "lowword",
+      "text": "be",
+      "dots": "23",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "lowword",
+      "text": "be",
+      "dots": "23",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "bea",
+      "dots": "12-2",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "bear",
+      "dots": "12-15-345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "beatif",
+      "dots": "23-1-2345-24-124",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "beatit",
+      "dots": "23-1-2345-24-2345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "beatr",
+      "dots": "23-1-2345-1235",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "beck",
+      "dots": "12-15-14-13",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "bed",
+      "dots": "12-1246",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "beda",
+      "dots": "23-145-1",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "bede",
+      "dots": "23-145-15",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "bede",
+      "dots": "12-1246-15",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "bedi",
+      "dots": "23-145-24",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "bee",
+      "dots": "12-15-15",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "bee",
+      "dots": "12-15-15",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "been",
+      "dots": "12-15-26",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "beer",
+      "dots": "12-15-12456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "beg",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "begg",
+      "dots": "12-15-2356",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "begs",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "bei",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "being",
+      "dots": "23-346",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "belch",
+      "dots": "12-15-123-16",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "beld",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "belf",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "belg",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "belk",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "bell",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "belm",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "belt",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "belw",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "ben",
+      "dots": "12-26",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "beni",
+      "dots": "12-26-24",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "benif",
+      "dots": "23-1345-24-124",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "benign",
+      "dots": "23-1345-24-1245-1345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "benov",
+      "dots": "23-1345-135-1236",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "benu",
+      "dots": "23-1345-136",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "ber",
+      "dots": "12-12456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "bera",
+      "dots": "23-1235-1",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "bere",
+      "dots": "23-1235-15",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "berea",
+      "dots": "23-1235-2",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "beri",
+      "dots": "23-1235-24",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "best",
+      "dots": "12-15-34",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "bestow",
+      "dots": "23-34-246",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "beth",
+      "dots": "12-15-1456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "bethe",
+      "dots": "12-15-2346",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "bets",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "bett",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "bev",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "bever",
+      "dots": "12-5-15",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "bio",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "bious",
+      "dots": "12-24-1256-234",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "because",
+      "dots": "23-14",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "bec",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "before",
+      "dots": "23-124",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "behind",
+      "dots": "23-125",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "behring",
+      "dots": "12-15-125-1235-346",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "bel",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "beln",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "below",
+      "dots": "23-123",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "beneath",
+      "dots": "23-1345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "beside",
+      "dots": "23-234",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "bess",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "between",
+      "dots": "23-2345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "bet",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "beyond",
+      "dots": "23-13456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "bey",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "ble",
+      "dots": "3456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "bleau",
+      "dots": "12-123-2-136",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "bless",
+      "dots": "12-46-234",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "blind",
+      "dots": "12-123",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "bl",
+      "dots": "12-123",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "blindf",
+      "dots": "12-123-124",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "blindly",
+      "dots": "12-123-123-13456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "blindness",
+      "dots": "12-123-56-234",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "blinds",
+      "dots": "12-123-234",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "braille",
+      "dots": "12-1235-123",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "brl",
+      "dots": "12-1235-123",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "but",
+      "dots": "12",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midword",
+      "text": "cch",
+      "dots": "14-16",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "chloro",
+      "dots": "16-123-135-1235-135",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "cofac",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "cofound",
+      "dots": "14-135-124-46-145",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "com",
+      "dots": "36",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "common",
+      "dots": "36-134-135-1345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "con",
+      "dots": "25",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "conceive",
+      "dots": "25-14-1236",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "conceiving",
+      "dots": "25-14-1236-1245",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "cone",
+      "dots": "14-5-135",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "cons",
+      "dots": "14-135-1345-234",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "conundrum",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "could",
+      "dots": "14-145",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "cd",
+      "dots": "14-145",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "coworker",
+      "dots": "14-135-5-2456-12456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midword",
+      "text": "cc",
+      "dots": "25",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "can",
+      "dots": "14",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "cannot",
+      "dots": "456-14",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "ch",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "ch",
+      "dots": "16",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "character",
+      "dots": "5-16",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "chemo",
+      "dots": "16-15-134-135",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "child",
+      "dots": "16",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "children",
+      "dots": "16-1345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "clever",
+      "dots": "14-123-5-15",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "day",
+      "dots": "5-145",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "deact",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "deall",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "decarb",
+      "dots": "145-15-14-345-12",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "deceive",
+      "dots": "145-14-1236",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "dcv",
+      "dots": "145-14-1236",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "dcvd",
+      "dots": "145-14-1236-145",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "dcvr",
+      "dots": "145-14-1236-1235",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "dcvs",
+      "dots": "145-14-1236-234",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "deceiving",
+      "dots": "145-14-1236-1245",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "dcvg",
+      "dots": "145-14-1236-1245",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "declare",
+      "dots": "145-14-123",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "dcl",
+      "dots": "145-14-123",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "dcld",
+      "dots": "145-14-123-145",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "dclr",
+      "dots": "145-14-123-1235",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "dcls",
+      "dots": "145-14-123-234",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "declaring",
+      "dots": "145-14-123-1245",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "dclg",
+      "dots": "145-14-123-1245",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "deref",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "dereg",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midword",
+      "text": "dd",
+      "dots": "256",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "dday",
+      "dots": "145-5-145",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "dedic",
+      "dots": "145-1246-24-14",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "dedu",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "deno",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "denom",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "denou",
+      "dots": "145-15-1345-1256",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "denu",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "dera",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "deri",
+      "dots": "145-15-1235-24",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "dero",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "dinu",
+      "dots": "145-24-1345-136",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "dis",
+      "dots": "256",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "disc",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "discs",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "dish",
+      "dots": "145-24-146",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "disha",
+      "dots": "256-125-1",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "dishear",
+      "dots": "256-125-15-345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "disho",
+      "dots": "256-125-135",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "dishone",
+      "dots": "256-125-5-135",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "disk",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "dispirit",
+      "dots": "145-24-456-234",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "disul",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "do",
+      "dots": "145",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midword",
+      "text": "ea",
+      "dots": "2",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midword",
+      "text": "eabil",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "eable",
+      "dots": "15-1-3456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "eably",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "eage",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "eager",
+      "dots": "2-1245-12456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "eally",
+      "dots": "15-6-13456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "eance",
+      "dots": "15-46-15",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "eand",
+      "dots": "15-12346",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "eation",
+      "dots": "15-6-1345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "ear",
+      "dots": "15-345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "ed",
+      "dots": "1246",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "edic",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "edition",
+      "dots": "15-145-24-56-1345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midword",
+      "text": "edo",
+      "dots": "15-145-135",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "edraw",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "either",
+      "dots": "15-24",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "ei",
+      "dots": "15-24",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "en",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "en",
+      "dots": "26",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "ename",
+      "dots": "15-5-1345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "enamel",
+      "dots": "26-1-134-15-123",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "ence",
+      "dots": "56-15",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "eneck",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "eness",
+      "dots": "15-56-234",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "enor",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "enou",
+      "dots": "15-1345-1256",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "lowword",
+      "text": "enough",
+      "dots": "26",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "lowword",
+      "text": "enough",
+      "dots": "26-1256-126",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "enu",
+      "dots": "15-1345-136",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "er",
+      "dots": "12456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "era",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "eras",
+      "dots": "12456-1-234",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "erec",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "ero",
+      "dots": "15-1235-135",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "eroom",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "eru",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "ever",
+      "dots": "5-15",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "evere",
+      "dots": "15-1236-12456-15",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "evered",
+      "dots": "15-1236-12456-1246",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "every",
+      "dots": "15",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midword",
+      "text": "ff",
+      "dots": "235",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "father",
+      "dots": "5-124",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "fein",
+      "dots": "124-15-35",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "first",
+      "dots": "124-34",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "fever",
+      "dots": "124-15-1236-12456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "ffor",
+      "dots": "124-123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "(for",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "for)",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "fora",
+      "dots": "123456-1",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "fore",
+      "dots": "123456-15",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "forens",
+      "dots": "123456-26-234",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "forever",
+      "dots": "123456-5-15",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "foot",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "from",
+      "dots": "124",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "friend",
+      "dots": "124-1235",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "fr",
+      "dots": "124-1235",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "friendl",
+      "dots": "124-1235-123",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "friends",
+      "dots": "124-1235-234",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "ful",
+      "dots": "56-123",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "funder",
+      "dots": "124-136-1345-145-12456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "geo",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "geoff",
+      "dots": "1245-15-12356-124",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midword",
+      "text": "gg",
+      "dots": "2356",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "gh",
+      "dots": "126",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "gham",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "ghead",
+      "dots": "1245-125-2-145",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "gheart",
+      "dots": "1245-125-15-345-2345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "ghill",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "ghorn",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "ghouse",
+      "dots": "1245-125-1256-234-15",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "ghz",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "givea",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "gnome",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "go",
+      "dots": "1245",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "good",
+      "dots": "1245-145",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "gd",
+      "dots": "1245-145",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "gos",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "goshen",
+      "dots": "1245-135-146-26",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "great",
+      "dots": "1245-1235-2345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "grt",
+      "dots": "1245-1235-2345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "had",
+      "dots": "456-125",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "hadd",
+      "dots": "125-1-256",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "hade",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "have",
+      "dots": "125",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "here",
+      "dots": "5-125",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "hered",
+      "dots": "125-12456-1246",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "heren",
+      "dots": "125-12456-26",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "herence",
+      "dots": "125-12456-56-15",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "herer",
+      "dots": "125-12456-12456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "heres",
+      "dots": "125-12456-15-234",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "heret",
+      "dots": "125-12456-15-2345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "heretofore",
+      "dots": "5-125-2345-135-123456-15",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "herself",
+      "dots": "125-12456-124",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "him",
+      "dots": "125-134",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "hm",
+      "dots": "125-3-134",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "hmm",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "himself",
+      "dots": "125-134-124",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "hmf",
+      "dots": "125-134-124",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "lowword",
+      "text": "his",
+      "dots": "236",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "horse",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "hydro",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "I",
+      "dots": "24",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "iever",
+      "dots": "24-15-1236-12456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "immediate",
+      "dots": "24-134-134",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "imm",
+      "dots": "24-134-134",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "immediately",
+      "dots": "24-134-134-123-13456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "immly",
+      "dots": "24-134-134-123-13456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "immuno",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "lowword",
+      "text": "in",
+      "dots": "35",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "in",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "in",
+      "dots": "35",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "incon",
+      "dots": "35-14-135-1345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "iness",
+      "dots": "24-56-234",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "ing",
+      "dots": "346",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midword",
+      "text": "inga",
+      "dots": "35-1245-1",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "ingar",
+      "dots": "35-1245-345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midword",
+      "text": "ingen",
+      "dots": "35-1245-26",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midword",
+      "text": "ingi",
+      "dots": "35-1245-24",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "inging",
+      "dots": "346-346",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "isomer",
+      "dots": "24-234-135-134-12456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "it",
+      "dots": "1346",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "its",
+      "dots": "1346-234",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "xs",
+      "dots": "1346-234",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "itself",
+      "dots": "1346-124",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "xf",
+      "dots": "1346-124",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "ity",
+      "dots": "56-13456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "just",
+      "dots": "245",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "know",
+      "dots": "5-13",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "knowledge",
+      "dots": "13",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "less",
+      "dots": "46-234",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "letter",
+      "dots": "123-1235",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "lr",
+      "dots": "123-1235",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "newsletter",
+      "dots": "1345-15-2456-234-123-1235",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "unlettered",
+      "dots": "136-1345-123-1235-1246",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "like",
+      "dots": "123",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "little",
+      "dots": "123-123",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "ll",
+      "dots": "123-123",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "lone",
+      "dots": "123-5-135",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "lord",
+      "dots": "5-123",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "many",
+      "dots": "456-134",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "mc",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "medic",
+      "dots": "134-1246-24-14",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "ment",
+      "dots": "56-2345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midword",
+      "text": "menth",
+      "dots": "134-26-1456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "mideast",
+      "dots": "134-24-145-15-1-34",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "milling",
+      "dots": "134-24-123-123-346",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "mishand",
+      "dots": "134-24-234-125-12346",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "mishap",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "mishear",
+      "dots": "134-24-234-125-15-345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "missh",
+      "dots": "134-24-234-146",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "mistook",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "mistran",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "mistreat",
+      "dots": "134-24-234-2345-1235-2-2345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "mistru",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "misty",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "monetary",
+      "dots": "134-5-135-2345-345-13456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "more",
+      "dots": "134",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "mother",
+      "dots": "5-134",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "much",
+      "dots": "134-16",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "must",
+      "dots": "134-34",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "mustn",
+      "dots": "134-34-1345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "myo",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "myself",
+      "dots": "134-13456-124",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "myf",
+      "dots": "134-13456-124",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "name",
+      "dots": "5-1345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "nament",
+      "dots": "1345-1-56-2345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "namese",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "necessary",
+      "dots": "1345-15-14",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "nec",
+      "dots": "1345-15-14",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "neither",
+      "dots": "1345-15-24",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "nei",
+      "dots": "1345-15-24",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "ness",
+      "dots": "56-234",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "noness",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "nonetheless",
+      "dots": "1345-5-135-2346-46-234",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "nonex",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "nong",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "noone",
+      "dots": "1345-135-5-135",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "nose",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "not",
+      "dots": "1345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "noways",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "nowhere",
+      "dots": "1345-135-5-156",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "O",
+      "dots": "135",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midword",
+      "text": "oed",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "oen",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "oence",
+      "dots": "135-26-14-15",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "(of",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "of)",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "ofar",
+      "dots": "135-124-345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "ofold",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midword",
+      "text": "ofor",
+      "dots": "135-123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "onesi",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "oness",
+      "dots": "135-56-234",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "oneer",
+      "dots": "135-1345-15-12456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "oned",
+      "dots": "135-1345-1246",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "one",
+      "dots": "5-135",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "oneless",
+      "dots": "5-135-46-234",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "onel",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "onem",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "onement",
+      "dots": "5-135-56-2345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "onent",
+      "dots": "135-1345-26-2345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "oneous",
+      "dots": "135-1345-15-1256-234",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "oner",
+      "dots": "135-1345-12456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "loner",
+      "dots": "123-135-1345-12456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "onese",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "oneself",
+      "dots": "5-135-124",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "oness",
+      "dots": "135-56-234",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "onet",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "onez",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "ong",
+      "dots": "56-1245",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "oon",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "osome",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "ou",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "ou",
+      "dots": "1256",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "ound",
+      "dots": "46-145",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "ount",
+      "dots": "46-2345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "ourselves",
+      "dots": "1256-1235-1236-234",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "out",
+      "dots": "1256",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "ought",
+      "dots": "5-1256",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "ow",
+      "dots": "246",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "o'clock",
+      "dots": "135-3-14",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "paid",
+      "dots": "1234-145",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "pd",
+      "dots": "1234-145",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "part",
+      "dots": "5-1234",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "parta",
+      "dots": "1234-345-2345-1",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "parthe",
+      "dots": "1234-345-2346",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "parth",
+      "dots": "5-1234-1456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "parto",
+      "dots": "1234-345-2345-135",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "people",
+      "dots": "1234",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "perceive",
+      "dots": "1234-12456-14-1236",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "perceiving",
+      "dots": "1234-12456-14-1236-1245",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "perhaps",
+      "dots": "1234-12456-125",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "pher",
+      "dots": "1234-125-12456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "potho",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "pre",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "preach",
+      "dots": "1234-1235-2-16",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "predator",
+      "dots": "1234-1235-1246-1-2345-135-1235",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "prof",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "proff",
+      "dots": "1234-1235-12356-124",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "profit",
+      "dots": "1234-1235-12356-24-2345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "quick",
+      "dots": "12345-13",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "qk",
+      "dots": "12345-13",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "quite",
+      "dots": "12345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "question",
+      "dots": "5-12345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "rafter",
+      "dots": "1235-1-124-2345-12456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "rather",
+      "dots": "1235",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "raw",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "reab",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "reac",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "reach",
+      "dots": "1235-2-16",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "readj",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "readm",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "reaff",
+      "dots": "1235-15-1-235",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "reagent",
+      "dots": "1235-15-1-1245-26-2345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "reagg",
+      "dots": "1235-15-1-2356",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "realig",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "rean",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "reapp",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "reass",
+      "dots": "1235-15-1-234-234",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "reatt",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "reau",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "reaw",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "rede",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "redi",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "redo",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "redone",
+      "dots": "1235-15-145-5-135",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "redou",
+      "dots": "1235-15-145-1256",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "redu",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "receive",
+      "dots": "1235-14-1236",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "rcv",
+      "dots": "1235-14-1236",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "rcvd",
+      "dots": "1235-14-1236-145",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "rcvr",
+      "dots": "1235-14-1236-1235",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "rcvs",
+      "dots": "1235-14-1236-234",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "receiving",
+      "dots": "1235-14-1236-1245",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "rcvg",
+      "dots": "1235-14-1236-1245",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "redis",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "redr",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "rejoice",
+      "dots": "1235-245-14",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "rjc",
+      "dots": "1235-245-14",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "rjcd",
+      "dots": "1235-245-14-145",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "rjcr",
+      "dots": "1235-245-14-1235",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "rjcs",
+      "dots": "1235-245-14-234",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "rejoicing",
+      "dots": "1235-245-14-1245",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "rjcg",
+      "dots": "1235-245-14-1245",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "renaming",
+      "dots": "1235-15-1345-1-134-346",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "rene",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "renom",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "renou",
+      "dots": "1235-15-1345-1256",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "renown",
+      "dots": "1235-15-1345-246-1345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "renu",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "reread",
+      "dots": "1235-15-1235-2-145",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "rerun",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "rever",
+      "dots": "1235-15-1236-12456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "reveren",
+      "dots": "1235-5-15-26",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "reverence",
+      "dots": "1235-5-15-56-15",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "reverie",
+      "dots": "1235-5-15-24-15",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "right",
+      "dots": "5-1235",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "said",
+      "dots": "234-145",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "sd",
+      "dots": "234-145",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "saw",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "screw",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "sedu",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "sent",
+      "dots": "234-26-2345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "sever",
+      "dots": "234-15-1236-12456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "several",
+      "dots": "234-5-15-1-123",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "shall",
+      "dots": "146",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "sh",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "sh",
+      "dots": "146",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "shaus",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "should",
+      "dots": "146-145",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "shoulder",
+      "dots": "146-1256-123-145-12456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "singapore",
+      "dots": "234-346-1-1234-135-1235-15",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "sion",
+      "dots": "46-1345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midword",
+      "text": "stak",
+      "dots": "234-2345-1-13",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "stion",
+      "dots": "234-56-1345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "so",
+      "dots": "234",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "some",
+      "dots": "5-234",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "somed",
+      "dots": "234-135-134-1246",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "somer",
+      "dots": "234-135-134-12456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "spirit",
+      "dots": "456-234",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "ssword",
+      "dots": "234-234-45-2456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "st",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "st",
+      "dots": "34",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "sth",
+      "dots": "234-1456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "sthe",
+      "dots": "234-2346",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "sthead",
+      "dots": "34-125-2-145",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "sthood",
+      "dots": "34-125-135-135-145",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "still",
+      "dots": "34",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "stime",
+      "dots": "234-5-2345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "stown",
+      "dots": "234-2345-246-1345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "styro",
+      "dots": "34-13456-1235-135",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "shead",
+      "dots": "234-125-2-145",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "sheart",
+      "dots": "124-125-15-345-2345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "shouse",
+      "dots": "234-125-1256-234-15",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "ssh",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "shood",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "such",
+      "dots": "234-16",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "sch",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "sword",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "th",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "th",
+      "dots": "1456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "thand",
+      "dots": "2345-125-12346",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "that",
+      "dots": "2345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "thill",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "this",
+      "dots": "1456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "thyself",
+      "dots": "1456-13456-124",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "tnam",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "today",
+      "dots": "2345-145",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "td",
+      "dots": "2345-145",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "tomorrow",
+      "dots": "2345-134",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "tm",
+      "dots": "2345-134",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "tonight",
+      "dots": "2345-1345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "tn",
+      "dots": "2345-1345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "thead",
+      "dots": "2345-125-2-145",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "theast",
+      "dots": "1456-15-1-34",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "theart",
+      "dots": "2345-125-15-345-2345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "thouse",
+      "dots": "2345-125-1256-234-15",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "(the",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "the)",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "thea",
+      "dots": "2346-1",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "themselves",
+      "dots": "2346-134-1236-234",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "their",
+      "dots": "456-2346",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "thence",
+      "dots": "1456-56-15",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "there",
+      "dots": "5-2346",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "thereal",
+      "dots": "2346-1235-2-123",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "thereupon",
+      "dots": "5-2346-45-136",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "thered",
+      "dots": "2346-1235-1246",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "therer",
+      "dots": "2346-1235-12456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "theres",
+      "dots": "2346-1235-15-234",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "thood",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "tion",
+      "dots": "56-1345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "time",
+      "dots": "5-2345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "timed",
+      "dots": "1245-24-134-1246",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "timer",
+      "dots": "2345-24-134-12456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "timet",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "these",
+      "dots": "45-2346",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "through",
+      "dots": "5-1456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "together",
+      "dots": "2345-1245-1235",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "tgr",
+      "dots": "2345-1245-1235",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "those",
+      "dots": "45-1456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "trans",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "un",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "unble",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "undis",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "uneas",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "uneat",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "unful",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "unmen",
+      "dots": "136-1345-134-26",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "upon",
+      "dots": "45-136",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "us",
+      "dots": "136",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "under",
+      "dots": "5-136",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "unsaid",
+      "dots": "136-1345-234-145",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "vaing",
+      "dots": "1236-1-35-1245",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "very",
+      "dots": "1236",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "vice",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "lowword",
+      "text": "was",
+      "dots": "356",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "wh",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "wh",
+      "dots": "156",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "whart",
+      "dots": "2456-125-345-2345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "which",
+      "dots": "156",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "midendword",
+      "text": "whouse",
+      "dots": "2456-125-1256-234-15",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "will",
+      "dots": "2456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "lowword",
+      "text": "were",
+      "dots": "2356",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "where",
+      "dots": "5-156",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "whereupon",
+      "dots": "5-156-45-136",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "wherever",
+      "dots": "156-12456-5-15",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "(with",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "with)",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "word",
+      "dots": "45-2456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "whose",
+      "dots": "45-156",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "work",
+      "dots": "5-2456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "would",
+      "dots": "2456-145",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "wd",
+      "dots": "2456-145",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "world",
+      "dots": "456-2456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "you",
+      "dots": "13456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "young",
+      "dots": "5-13456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "your",
+      "dots": "13456-1235",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "yr",
+      "dots": "13456-1235",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "yours",
+      "dots": "13456-1235-234",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "yrs",
+      "dots": "13456-1235-234",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "yourself",
+      "dots": "13456-1235-124",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "yrf",
+      "dots": "13456-1235-124",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "yourselves",
+      "dots": "13456-1235-1236-234",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "yrvs",
+      "dots": "13456-1235-1236-234",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "yotta",
+      "dots": "13456-135-2345-2345-1",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "zetta",
+      "dots": "1356-15-2345-2345-1",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "peta",
+      "dots": "1234-15-2345-1",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "tera",
+      "dots": "2345-12456-1",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "giga",
+      "dots": "1245-24-1245-1",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "mega",
+      "dots": "134-15-1245-1",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "kilo",
+      "dots": "13-24-123-135",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "hecto",
+      "dots": "125-15-14-2345-135",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "deca",
+      "dots": "145-15-14-1",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "deci",
+      "dots": "145-15-14-24",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "centi",
+      "dots": "14-26-2345-24",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "milli",
+      "dots": "134-24-123-123-24",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "micro",
+      "dots": "134-24-14-1235-135",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "nano",
+      "dots": "1345-1-1345-135",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "pico",
+      "dots": "1234-24-14-135",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "femto",
+      "dots": "124-15-134-2345-135",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "atto",
+      "dots": "1-2345-2345-135",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "zepto",
+      "dots": "1356-15-1234-2345-135",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "yocto",
+      "dots": "13456-135-14-2345-135",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "anti",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "epi",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "extra",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "hyper",
+      "dots": "125-13456-1234-12456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "hypo",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "infra",
+      "dots": "35-124-1235-1",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "inter",
+      "dots": "35-2345-12456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "intra",
+      "dots": "35-2345-1235-1",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "iso",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "macro",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "meta",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "micro",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "mono",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "multi",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "patho",
+      "dots": "1234-1-1456-135",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "peri",
+      "dots": "1234-12456-24",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "poly",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "post",
+      "dots": "1234-135-34",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "pre",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "pseudo",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "retro",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "sub",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "super",
+      "dots": "234-136-1234-12456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "tetra",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "trans",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "ultra",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "electro",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "neuro",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "psycho",
+      "dots": "1234-234-13456-16-135",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "'d",
+      "dots": "3-145",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "'em",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "'ll",
+      "dots": "3-123-123",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "'m",
+      "dots": "3-134",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "'re",
+      "dots": "3-1235-15",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "'s",
+      "dots": "3-234",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "'t",
+      "dots": "3-2345",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "'ve",
+      "dots": "3-1236-15",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "-com",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "-to",
+      "dots": "123456",
+      "source": "en-us-mathtext.ctb"
+    }
+  ]
+}

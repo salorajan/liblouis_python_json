@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Liblouis Python-JSON WASM Translator</title>
+    <script src="https://cdn.jsdelivr.net/pyodide/v0.25.0/full/pyodide.js"></script>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; background: #f4f4f9; }
+        h1 { border-bottom: 2px solid #333; padding-bottom: 10px; }
+        .section { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-bottom: 20px; }
+        .controls { display: flex; gap: 20px; align-items: center; margin-bottom: 15px; }
+        textarea { width: 100%; height: 150px; padding: 10px; border: 1px solid #ccc; border-radius: 4px; font-size: 16px; margin-bottom: 10px; }
+        .braille-output { font-family: "Courier New", Courier, monospace; background: #eee; }
+        .status { font-weight: bold; color: #d9534f; margin-bottom: 10px; }
+        .status.ready { color: #5cb85c; }
+        button { padding: 10px 20px; background: #007bff; color: white; border: none; border-radius: 4px; cursor: pointer; }
+        button:disabled { background: #ccc; }
+        .download-links { margin-top: 10px; }
+        label { font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h1>English UEB Braille Translator (WASM)</h1>
+    
+    <div class="section">
+        <h2>About this Project</h2>
+        <p>
+            This project is a pure Python port of the world-renowned <strong>Liblouis</strong> Braille translation engine, 
+            developed by the <strong>power_python</strong> team. By converting the original C logic into Python and 
+            deploying it via <strong>WebAssembly (Pyodide)</strong>, we bring industry-standard Braille translation 
+            directly to the web without the need for server-side processing or complex C-based installations.
+        </p>
+        
+        <h3>Our Mission</h3>
+        <p>
+            Our goal is to provide a portable, accessible, and high-performance translation tool for Unified English Braille (UEB). 
+            This implementation maintains strict parity with Liblouis, ensuring that users receive the same high-quality 
+            Braille output they trust, anywhere Python or a modern web browser is available.
+        </p>
+
+        <h3>Usage Guide</h3>
+        <ul>
+            <li><strong>Live Forward Translation:</strong> Enter standard text in the top box to see its Braille equivalent instantly.</li>
+            <li><strong>Live Backward Translation:</strong> Enter Braille dots or BRF patterns in the bottom box to convert them back to readable text.</li>
+            <li><strong>Switching Grades:</strong> Use the radio buttons to toggle between <strong>UEB Grade 1</strong> (uncontracted) and <strong>UEB Grade 2</strong> (contracted).</li>
+            <li><strong>File Processing:</strong> Use the "Upload" button to process <code>.txt</code> or <code>.brf</code> files.</li>
+            <li><strong>Export:</strong> Download your results using the provided "Download" buttons.</li>
+        </ul>
+
+        <h3>Special Thanks & Acknowledgment</h3>
+        <p>
+            This software is built upon the foundational work of the <strong>Liblouis</strong> community. 
+            We express our deepest gratitude to the creators and maintainers of <a href="https://liblouis.io/" target="_blank">Liblouis</a>. 
+            Their decades of dedication to open-source accessible literacy have made this project possible. 
+            This port is a tribute to their impactful work.
+        </p>
+
+        <hr>
+        <p style="font-size: 0.9em; color: #555;">
+            <strong>Developed by:</strong> power_python Team<br>
+            <strong>License:</strong> Licensed under the <strong>GNU Lesser General Public License (LGPL) v2.1+</strong>, 
+            consistent with the original Liblouis project.
+        </p>
+    </div>
+
+    <div id="status" class="status">Loading WASM Runtime...</div>
+
+    <div class="section">
+        <div class="controls">
+            <div>
+                <label>UEB Grade:</label>
+                <input type="radio" name="grade" id="g1" value="en-ueb-g1.json"> <label for="g1">Grade 1</label>
+                <input type="radio" name="grade" id="g2" value="en-ueb-g2.json" checked> <label for="g2">Grade 2</label>
+            </div>
+            <div>
+                <label for="fileInput">Upload Text/BRF:</label>
+                <input type="file" id="fileInput" accept=".txt,.brf">
+            </div>
+        </div>
+
+        <label for="inputText">Standard Text (Forward Translation):</label>
+        <textarea id="inputText" placeholder="Enter text to translate to Braille..."></textarea>
+        <button id="downloadText">Download Output (.brf)</button>
+    </div>
+
+    <div class="section">
+        <label for="inputBraille">Braille Dots/BRF (Backward Translation):</label>
+        <textarea id="inputBraille" class="braille-output" placeholder="Enter BRF or Braille patterns to back-translate..."></textarea>
+        <button id="downloadBraille">Download Output (.txt)</button>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+</html>

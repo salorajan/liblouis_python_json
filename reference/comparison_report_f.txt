@@ -1,0 +1,407 @@
+IMPLEMENTATION COMPARISON (Forward): C vs Python
+======================================
+
+Overall Match Rate: 395/400 (98.8%)
+
+ID   | Input                          | C Truth              | PY Actual            | Match
+----------------------------------------------------------------------------------------------------
+1    | but                            | B                    | B                    | YES
+2    | can                            | C                    | C                    | YES
+3    | do                             | D                    | D                    | YES
+4    | every                          | E                    | E                    | YES
+5    | from                           | F                    | F                    | YES
+6    | go                             | G                    | G                    | YES
+7    | have                           | H                    | H                    | YES
+8    | just                           | J                    | J                    | YES
+9    | knowledge                      | K                    | K                    | YES
+10   | like                           | L                    | L                    | YES
+11   | more                           | M                    | M                    | YES
+12   | not                            | N                    | N                    | YES
+13   | people                         | P                    | P                    | YES
+14   | quite                          | Q                    | Q                    | YES
+15   | rather                         | R                    | R                    | YES
+16   | so                             | S                    | S                    | YES
+17   | that                           | T                    | T                    | YES
+18   | us                             | U                    | U                    | YES
+19   | very                           | V                    | V                    | YES
+20   | will                           | W                    | W                    | YES
+21   | it                             | X                    | X                    | YES
+22   | you                            | Y                    | Y                    | YES
+23   | as                             | Z                    | Z                    | YES
+24   | and                            | &                    | &                    | YES
+25   | for                            | =                    | =                    | YES
+26   | of                             | (                    | (                    | YES
+27   | the                            | !                    | !                    | YES
+28   | with                           | )                    | )                    | YES
+29   | I can do it.                   | ,I C D X4            | ,I C D X4            | YES
+30   | You will like it.              | ,Y W L X4            | ,Y W L X4            | YES
+31   | People like more knowledge.    | ,P L M K4            | ,P L M K4            | YES
+32   | Every people can go from here. | ,E P C G F "H4       | ,E P C G F "H4       | YES
+33   | day                            | "D                   | "D                   | YES
+34   | ever                           | "E                   | "E                   | YES
+35   | father                         | "F                   | "F                   | YES
+36   | here                           | "H                   | "H                   | YES
+37   | know                           | "K                   | "K                   | YES
+38   | lord                           | "L                   | "L                   | YES
+39   | mother                         | "M                   | "M                   | YES
+40   | name                           | "N                   | "N                   | YES
+41   | one                            | "O                   | "O                   | YES
+42   | part                           | "P                   | "P                   | YES
+43   | question                       | "Q                   | "Q                   | YES
+44   | right                          | "R                   | "R                   | YES
+45   | some                           | "S                   | "S                   | YES
+46   | time                           | "T                   | "T                   | YES
+47   | under                          | "U                   | "U                   | YES
+48   | young                          | "Y                   | "Y                   | YES
+49   | work                           | "W                   | "W                   | YES
+50   | about                          | AB                   | AB                   | YES
+51   | above                          | ABV                  | ABV                  | YES
+52   | according                      | AC                   | AC                   | YES
+53   | across                         | ACR                  | ACR                  | YES
+54   | after                          | AF                   | AF                   | YES
+55   | afternoon                      | AFN                  | AFN                  | YES
+56   | afterward                      | AFW                  | AFW                  | YES
+57   | again                          | AG                   | AG                   | YES
+58   | against                        | AG/                  | AG/                  | YES
+59   | also                           | AL                   | AL                   | YES
+60   | almost                         | ALM                  | ALM                  | YES
+61   | already                        | ALR                  | ALR                  | YES
+62   | altogether                     | ALT                  | ALT                  | YES
+63   | although                       | AL?                  | AL?                  | YES
+64   | always                         | ALW                  | ALW                  | YES
+65   | be                             | 2                    | 2                    | YES
+66   | enough                         | 5                    | 5                    | YES
+67   | his                            | 8                    | 8                    | YES
+68   | in                             | 9                    | 9                    | YES
+69   | was                            | 0                    | 0                    | YES
+70   | were                           | 7                    | 7                    | YES
+71   | Hello, world!                  | ,HELLO1 _W6          | ,HELLO1 _W6          | YES
+72   | The quick brown fox jumps over | ,! QK BR[N FOX JUMPS OV] ! LAZY DOG4 | ,! QK BR[N FOX JUMPS OV] ! LAZY DOG4 | YES
+73   | Mother said it is about time.  | ,"M SD X IS AB "T4   | ,"M SD X IS AB "T4   | YES
+74   | Knowledge is power.            | ,K IS P[]4           | ,K IS P[]4           | YES
+75   | I will go with you.            | ,I W G ) Y4          | ,I W G ) Y4          | YES
+76   | And for of the with.           | ,& = ( ! )4          | ,& = ( ! )4          | YES
+77   | That was a good day.           | ,T 0 A GD "D4        | ,T 0 A GD "D4        | YES
+78   | He was also there.             | ,HE 0 AL "!4         | ,HE 0 AL "!4         | YES
+79   | They were here.                | ,!Y 7 "H4            | ,!Y 7 "H4            | YES
+80   | Will you be my friend?         | ,W Y 2 MY FR8        | ,W Y 2 MY FR8        | YES
+81   | Do it for us.                  | ,D X = U4            | ,D X = U4            | YES
+82   | Every part of the work is impo | ,E "P ( ! "W IS IMPORTANT4 | ,E "P ( ! "W IS IMPORTANT4 | YES
+83   | Can you name some people?      | ,C Y "N "S P8        | ,C Y "N "S P8        | YES
+84   | I have enough money.           | ,I H 5 M"OY4         | ,I H 5 M"OY4         | YES
+85   | Just do your best.             | ,J D YR BE/4         | ,J D YR BE/4         | YES
+86   | Rather go home now.            | ,R G HOME N[4        | ,R G HOME N[4        | YES
+87   | So it will be.                 | ,S X W BE4           | ,S X W 24            | NO
+88   | Quite a long time.             | ,Q A L;G "T4         | ,Q A L;G "T4         | YES
+89   | It is very young.              | ,X IS V "Y4          | ,X IS V "Y4          | YES
+90   | You are the lord.              | ,Y >E ! "L4          | ,Y >E ! "L4          | YES
+91   | One more question.             | ,"O M "Q4            | ,"O M "Q4            | YES
+92   | Right or wrong.                | ,"R OR WR;G4         | ,"R OR WR;G4         | YES
+93   | Under the bridge.              | ,"U ! BRIDGE4        | ,"U ! BRIDGE4        | YES
+94   | Father is working.             | ,"F IS "W+4          | ,"F IS "W+4          | YES
+95   | Again and again.               | ,AG & AG4            | ,AG & AG4            | YES
+96   | Almost there.                  | ,ALM "!4             | ,ALM "!4             | YES
+97   | Already done.                  | ,ALR D"O4            | ,ALR D"O4            | YES
+98   | Although it is hard.           | ,AL? X IS H>D4       | ,AL? X IS H>D4       | YES
+99   | Always try your best.          | ,ALW TRY YR BE/4     | ,ALW TRY YR BE/4     | YES
+100  | According to the law.          | ,AC TO ! LAW4        | ,AC TO ! LAW4        | YES
+101  | Across the street.             | ,ACR ! /REET4        | ,ACR ! /REET4        | YES
+102  | After the rain.                | ,AF ! RA94           | ,AF ! RA94           | YES
+103  | Afternoon tea.                 | ,AFN TEA4            | ,AFN TEA4            | YES
+104  | Against the wall.              | ,AG/ ! WALL4         | ,AG/ ! WALL4         | YES
+105  | Altogether now.                | ,ALT N[4             | ,ALT N[4             | YES
+106  | About that day.                | ,AB T "D4            | ,AB T "D4            | YES
+107  | Above the clouds.              | ,ABV ! CL\DS4        | ,ABV ! CL\DS4        | YES
+108  | Knowledge and power.           | ,K & P[]4            | ,K & P[]4            | YES
+109  | Mother and father.             | ,"M & "F4            | ,"M & "F4            | YES
+110  | Some part of it.               | ,"S "P ( X4          | ,"S "P ( X4          | YES
+111  | Young and old.                 | ,"Y & OLD4           | ,"Y & OLD4           | YES
+112  | Time and tide.                 | ,"T & TIDE4          | ,"T & TIDE4          | YES
+113  | Work and play.                 | ,"W & PLAY4          | ,"W & PLAY4          | YES
+114  | Every day is good.             | ,E "D IS GD4         | ,E "D IS GD4         | YES
+115  | Quite enough for me.           | ,Q 5 = ME4           | ,Q 5 = ME4           | YES
+116  | Rather you than me.            | ,R Y ?AN ME4         | ,R Y ?AN ME4         | YES
+117  | So be it.                      | ,S 2 X4              | ,S 2 X4              | YES
+118  | HELLO WORLD                    | ,,HELLO ,,_W         | ,,HELLO ,,_W         | YES
+119  | Hello World                    | ,HELLO ,_W           | ,HELLO ,_W           | YES
+120  | hELLO wORLD                    | H,,ELLO W,,ORLD      | H,,ELLO W,,ORLD      | YES
+121  | I am HAPPY.                    | ,I AM ,,HAPPY4       | ,I AM ,,HAPPY4       | YES
+122  | This is a TEST.                | ,? IS A ,,TE/4       | ,? IS A ,,TE/4       | YES
+123  | 123                            | #ABC                 | #ABC                 | YES
+124  | 12.34                          | #AB4CD               | #AB4CD               | YES
+125  | Section 5.2                    | ,SEC;N #E4B          | ,SEC;N #E4B          | YES
+126  | Call 911!                      | ,CALL #IAA6          | ,CALL #IAA6          | YES
+127  | Price: $10.00                  | ,PRICE3 @S#AJ4JJ     | ,PRICE3 @S#AJ4JJ     | YES
+128  | Date: 05/14/2026               | ,DATE3 #JE_/#AD_/#BJBF | ,DATE3 #JE_/#AD_/#BJBF | YES
+129  | (Parentheses)                  | "<,P>5!SES">         | "<,P>5!SES">         | YES
+130  | [Brackets]                     | .<,BRACKETS.>        | .<,BRACKETS.>        | YES
+131  | {Braces}                       | _<,BRACES_>          | _<,BRACES_>          | YES
+132  | Slash/Backslash\               | ,SLA%_/,BACKSLA%_*   | ,SLA%_/,BACKSLA%_*   | YES
+133  | Hyphen-ated                    | ,HYPH5-AT$           | ,HYPH5-AT$           | YES
+134  | Dash--double                   | ,DA%--D\BLE          | ,DA%--D\BLE          | YES
+135  | Quote 'single' and "double"    | ,QUOTE 'S+LE' & 8D\BLE0 | ,QUOTE 'S+LE' & 8D\BLE0 | YES
+136  | heart                          | HE>T                 | H1RT                 | NO
+137  | beach                          | B1*                  | B1*                  | YES
+138  | teacher                        | T1*]                 | T1*]                 | YES
+139  | bed                            | B$                   | B$                   | YES
+140  | educated                       | $UCAT$               | $UCAT$               | YES
+141  | reduced                        | R$UC$                | R$UC$                | YES
+142  | because                        | 2C                   | 2C                   | YES
+143  | before                         | 2F                   | 2F                   | YES
+144  | behind                         | 2H                   | 2H                   | YES
+145  | below                          | 2L                   | 2L                   | YES
+146  | beneath                        | 2N                   | 2N                   | YES
+147  | beside                         | 2S                   | 2S                   | YES
+148  | between                        | 2T                   | 2T                   | YES
+149  | beyond                         | 2Y                   | 2Y                   | YES
+150  | children                       | *N                   | *N                   | YES
+151  | could                          | CD                   | CD                   | YES
+152  | should                         | %D                   | %D                   | YES
+153  | would                          | WD                   | WD                   | YES
+154  | friend                         | FR                   | FR                   | YES
+155  | good                           | GD                   | GD                   | YES
+156  | great                          | GRT                  | GRT                  | YES
+157  | him                            | HM                   | HM                   | YES
+158  | herself                        | H]F                  | H]F                  | YES
+159  | immediate                      | IMM                  | IMM                  | YES
+160  | little                         | LL                   | LL                   | YES
+161  | letter                         | LR                   | LR                   | YES
+162  | myself                         | MYF                  | MYF                  | YES
+163  | necessary                      | NEC                  | NEC                  | YES
+164  | neither                        | NEI                  | NEI                  | YES
+165  | paid                           | PD                   | PD                   | YES
+166  | perceive                       | P]CV                 | P]CV                 | YES
+167  | perhaps                        | P]H                  | P]H                  | YES
+168  | quick                          | QK                   | QK                   | YES
+169  | receive                        | RCV                  | RCV                  | YES
+170  | rejoice                        | RJC                  | RJC                  | YES
+171  | said                           | SD                   | SD                   | YES
+172  | such                           | S*                   | S*                   | YES
+173  | themselves                     | !MVS                 | !MVS                 | YES
+174  | today                          | TD                   | TD                   | YES
+175  | together                       | TGR                  | TGR                  | YES
+176  | tomorrow                       | TM                   | TM                   | YES
+177  | tonight                        | TN                   | TN                   | YES
+178  | your                           | YR                   | YR                   | YES
+179  | stronger                       | /R;G]                | /R;G]                | YES
+180  | longest                        | L;GE/                | L;GE/                | YES
+181  | standing                       | /&+                  | /&+                  | YES
+182  | motherly                       | "MLY                 | "MLY                 | YES
+183  | fatherhood                     | "FHOOD               | "FHOOD               | YES
+184  | knowingly                      | "K+LY                | "K+LY                | YES
+185  | questioning                    | "Q+                  | "Q+                  | YES
+186  | rightful                       | "R;L                 | "R;L                 | YES
+187  | someone                        | "S"O                 | "S"O                 | YES
+188  | underneath                     | "UN1?                | "UN1?                | YES
+189  | youngest                       | "YE/                 | "YE/                 | YES
+190  | working                        | "W+                  | "W+                  | YES
+191  | A bird in the hand is worth tw | ,A BIRD 9 ! H& IS WOR? TWO 9 ! BU%4 | ,A BIRD 9 ! H& IS WOR? TWO 9 ! BU%4 | YES
+192  | To be or not to be, that is th | ,TO 2 OR N TO BE1 T IS ! "Q4 | ,TO 2 OR N TO 21 T IS ! "Q4 | NO
+193  | All that glitters is not gold. | ,ALL T GLITT]S IS N GOLD4 | ,ALL T GLITT]S IS N GOLD4 | YES
+194  | In the beginning God created t | ,9 ! 2G9N+ ,GOD CR1T$ ! H1V5 & ! E>?4 | ,9 ! BEG9N+ ,GOD CR1T$ ! H1V5 & ! E>?4 | NO
+195  | It was the best of times, it w | ,X 0 ! BE/ ( "TS1 X 0 ! WOR/ ( "TS4 | ,X 0 ! BE/ ( "TS1 X 0 ! WOR/ ( "TS4 | YES
+196  | Call me Ishmael.               | ,CALL ME ,I%MAEL4    | ,CALL ME ,I%MAEL4    | YES
+197  | I wandered lonely as a cloud.  | ,I W&]$ L"OLY Z A CL\D4 | ,I W&]$ L"OLY Z A CL\D4 | YES
+198  | The lady doth protest too much | ,! LADY DO? PROTE/ TOO M*1 ME?9KS4 | ,! LADY DO? PROTE/ TOO M*1 ME?9KS4 | YES
+199  | Time is money.                 | ,"T IS M"OY4         | ,"T IS M"OY4         | YES
+200  | Practice makes perfect.        | ,PRACTICE MAKES P]FECT4 | ,PRACTICE MAKES P]FECT4 | YES
+201  | Life is what happens when you' | ,LIFE IS :AT HAPP5S :5 Y'RE BUSY MAK+ O!R PLANS4 | ,LIFE IS :AT HAPP5S :5 Y'RE BUSY MAK+ O!R PLANS4 | YES
+202  | antidisestablishmentarianism   | ANTIDISE/ABLI%;T>IANISM | ANTIDISE/ABLI%;T>IANISM | YES
+203  | supercalifragilisticexpialidoc | SUP]CALIFRAGILI/ICEXPIALIDOCI\S | SUP]CALIFRAGILI/ICEXPIALIDOCI\S | YES
+204  | floccinaucinihilipilification  | FLO39AUC9IHILIPILIFICA;N | FLO39AUC9IHILIPILIFICATION | NO
+205  | pseudopseudohypoparathyroidism | PSEUDOPSEUDOHYPOP>A?YROIDISM | PSEUDOPSEUDOHYPOP>A?YROIDISM | YES
+206  | U.S.A.                         | ,U4,S4,A4            | ,U4,S4,A4            | YES
+207  | NASA                           | ,,NASA               | ,,NASA               | YES
+208  | UNESCO                         | ,,UNESCO             | ,,UNESCO             | YES
+209  | HTML                           | ,,HTML               | ,,HTML               | YES
+210  | CSS                            | ,,CSS                | ,,CSS                | YES
+211  | user@example.com               | US]@AEXAMPLE4COM     | US]@AEXAMPLE4COM     | YES
+212  | https://www.liblouis.org       | HTTPS3_/_/WWW4LIBL\IS4ORG | HTTPS3_/_/WWW4LIBL\IS4ORG | YES
+213  | Word  word   word              | ,^W  ^W   ^W         | ,^W  ^W   ^W         | YES
+214  |   Leading and trailing         | ,L1D+ & TRAIL+       | ,L1D+ & TRAIL+       | YES
+215  | © ® ™                          | ^C ^R ^T             | ^C ^R ^T             | YES
+216  | € £ ¥                          | @E @L @Y             | @E @L @Y             | YES
+217  | α β γ                          | .A .B .G             | .A .B .G             | YES
+218  | Fox apple banana banana jumps. | ,FOX APPLE BANANA BANANA JUMPS4 | ,FOX APPLE BANANA BANANA JUMPS4 | YES
+219  | Cherry apple jumps brown over. | ,*]RY APPLE JUMPS BR[N OV]4 | ,*]RY APPLE JUMPS BR[N OV]4 | YES
+220  | Fox quick apple cherry fox.    | ,FOX QK APPLE *]RY FOX4 | ,FOX QK APPLE *]RY FOX4 | YES
+221  | Lazy the the brown banana.     | ,LAZY ! ! BR[N BANANA4 | ,LAZY ! ! BR[N BANANA4 | YES
+222  | Banana fox fox quick apple.    | ,BANANA FOX FOX QK APPLE4 | ,BANANA FOX FOX QK APPLE4 | YES
+223  | The over over brown fox.       | ,! OV] OV] BR[N FOX4 | ,! OV] OV] BR[N FOX4 | YES
+224  | Lazy apple banana quick cherry | ,LAZY APPLE BANANA QK *]RY4 | ,LAZY APPLE BANANA QK *]RY4 | YES
+225  | Quick jumps quick over banana. | ,QK JUMPS QK OV] BANANA4 | ,QK JUMPS QK OV] BANANA4 | YES
+226  | Over jumps apple brown apple.  | ,OV] JUMPS APPLE BR[N APPLE4 | ,OV] JUMPS APPLE BR[N APPLE4 | YES
+227  | Brown quick jumps brown dog.   | ,BR[N QK JUMPS BR[N DOG4 | ,BR[N QK JUMPS BR[N DOG4 | YES
+228  | Apple the dog fox over.        | ,APPLE ! DOG FOX OV]4 | ,APPLE ! DOG FOX OV]4 | YES
+229  | Fox fox dog banana lazy.       | ,FOX FOX DOG BANANA LAZY4 | ,FOX FOX DOG BANANA LAZY4 | YES
+230  | The cherry quick cherry quick. | ,! *]RY QK *]RY QK4  | ,! *]RY QK *]RY QK4  | YES
+231  | Cherry banana fox apple dog.   | ,*]RY BANANA FOX APPLE DOG4 | ,*]RY BANANA FOX APPLE DOG4 | YES
+232  | Jumps apple banana fox brown.  | ,JUMPS APPLE BANANA FOX BR[N4 | ,JUMPS APPLE BANANA FOX BR[N4 | YES
+233  | Fox jumps apple banana over.   | ,FOX JUMPS APPLE BANANA OV]4 | ,FOX JUMPS APPLE BANANA OV]4 | YES
+234  | Brown lazy fox fox cherry.     | ,BR[N LAZY FOX FOX *]RY4 | ,BR[N LAZY FOX FOX *]RY4 | YES
+235  | Jumps brown cherry brown jumps | ,JUMPS BR[N *]RY BR[N JUMPS4 | ,JUMPS BR[N *]RY BR[N JUMPS4 | YES
+236  | Brown the over apple over.     | ,BR[N ! OV] APPLE OV]4 | ,BR[N ! OV] APPLE OV]4 | YES
+237  | Quick quick over dog jumps.    | ,QK QK OV] DOG JUMPS4 | ,QK QK OV] DOG JUMPS4 | YES
+238  | Quick over dog dog brown.      | ,QK OV] DOG DOG BR[N4 | ,QK OV] DOG DOG BR[N4 | YES
+239  | Quick banana dog the fox.      | ,QK BANANA DOG ! FOX4 | ,QK BANANA DOG ! FOX4 | YES
+240  | Fox over banana brown quick.   | ,FOX OV] BANANA BR[N QK4 | ,FOX OV] BANANA BR[N QK4 | YES
+241  | Fox cherry jumps lazy the.     | ,FOX *]RY JUMPS LAZY !4 | ,FOX *]RY JUMPS LAZY !4 | YES
+242  | Dog over cherry over banana.   | ,DOG OV] *]RY OV] BANANA4 | ,DOG OV] *]RY OV] BANANA4 | YES
+243  | Jumps jumps lazy over quick.   | ,JUMPS JUMPS LAZY OV] QK4 | ,JUMPS JUMPS LAZY OV] QK4 | YES
+244  | Lazy over cherry jumps brown.  | ,LAZY OV] *]RY JUMPS BR[N4 | ,LAZY OV] *]RY JUMPS BR[N4 | YES
+245  | Jumps apple over lazy banana.  | ,JUMPS APPLE OV] LAZY BANANA4 | ,JUMPS APPLE OV] LAZY BANANA4 | YES
+246  | Brown lazy brown the lazy.     | ,BR[N LAZY BR[N ! LAZY4 | ,BR[N LAZY BR[N ! LAZY4 | YES
+247  | Brown apple apple fox brown.   | ,BR[N APPLE APPLE FOX BR[N4 | ,BR[N APPLE APPLE FOX BR[N4 | YES
+248  | Jumps dog lazy jumps quick.    | ,JUMPS DOG LAZY JUMPS QK4 | ,JUMPS DOG LAZY JUMPS QK4 | YES
+249  | Cherry dog quick lazy banana.  | ,*]RY DOG QK LAZY BANANA4 | ,*]RY DOG QK LAZY BANANA4 | YES
+250  | Apple over the apple jumps.    | ,APPLE OV] ! APPLE JUMPS4 | ,APPLE OV] ! APPLE JUMPS4 | YES
+251  | The brown the jumps over.      | ,! BR[N ! JUMPS OV]4 | ,! BR[N ! JUMPS OV]4 | YES
+252  | Cherry lazy dog over apple.    | ,*]RY LAZY DOG OV] APPLE4 | ,*]RY LAZY DOG OV] APPLE4 | YES
+253  | Brown fox banana over banana.  | ,BR[N FOX BANANA OV] BANANA4 | ,BR[N FOX BANANA OV] BANANA4 | YES
+254  | Brown quick over brown dog.    | ,BR[N QK OV] BR[N DOG4 | ,BR[N QK OV] BR[N DOG4 | YES
+255  | Lazy apple fox lazy jumps.     | ,LAZY APPLE FOX LAZY JUMPS4 | ,LAZY APPLE FOX LAZY JUMPS4 | YES
+256  | Dog apple over lazy the.       | ,DOG APPLE OV] LAZY !4 | ,DOG APPLE OV] LAZY !4 | YES
+257  | Over dog the the apple.        | ,OV] DOG ! ! APPLE4  | ,OV] DOG ! ! APPLE4  | YES
+258  | Fox jumps the dog jumps.       | ,FOX JUMPS ! DOG JUMPS4 | ,FOX JUMPS ! DOG JUMPS4 | YES
+259  | Jumps apple quick quick apple. | ,JUMPS APPLE QK QK APPLE4 | ,JUMPS APPLE QK QK APPLE4 | YES
+260  | Fox jumps the brown lazy.      | ,FOX JUMPS ! BR[N LAZY4 | ,FOX JUMPS ! BR[N LAZY4 | YES
+261  | Lazy dog fox lazy dog.         | ,LAZY DOG FOX LAZY DOG4 | ,LAZY DOG FOX LAZY DOG4 | YES
+262  | Over apple quick brown lazy.   | ,OV] APPLE QK BR[N LAZY4 | ,OV] APPLE QK BR[N LAZY4 | YES
+263  | Quick quick lazy apple dog.    | ,QK QK LAZY APPLE DOG4 | ,QK QK LAZY APPLE DOG4 | YES
+264  | Lazy brown brown dog the.      | ,LAZY BR[N BR[N DOG !4 | ,LAZY BR[N BR[N DOG !4 | YES
+265  | Lazy fox dog cherry quick.     | ,LAZY FOX DOG *]RY QK4 | ,LAZY FOX DOG *]RY QK4 | YES
+266  | Apple brown jumps brown banana | ,APPLE BR[N JUMPS BR[N BANANA4 | ,APPLE BR[N JUMPS BR[N BANANA4 | YES
+267  | Quick quick cherry brown over. | ,QK QK *]RY BR[N OV]4 | ,QK QK *]RY BR[N OV]4 | YES
+268  | Cherry cherry cherry brown fox | ,*]RY *]RY *]RY BR[N FOX4 | ,*]RY *]RY *]RY BR[N FOX4 | YES
+269  | Brown cherry the dog apple.    | ,BR[N *]RY ! DOG APPLE4 | ,BR[N *]RY ! DOG APPLE4 | YES
+270  | The dog banana fox cherry.     | ,! DOG BANANA FOX *]RY4 | ,! DOG BANANA FOX *]RY4 | YES
+271  | Dog jumps jumps lazy jumps.    | ,DOG JUMPS JUMPS LAZY JUMPS4 | ,DOG JUMPS JUMPS LAZY JUMPS4 | YES
+272  | Apple lazy quick the apple.    | ,APPLE LAZY QK ! APPLE4 | ,APPLE LAZY QK ! APPLE4 | YES
+273  | Dog over cherry the lazy.      | ,DOG OV] *]RY ! LAZY4 | ,DOG OV] *]RY ! LAZY4 | YES
+274  | Brown the over over quick.     | ,BR[N ! OV] OV] QK4  | ,BR[N ! OV] OV] QK4  | YES
+275  | Apple the the brown the.       | ,APPLE ! ! BR[N !4   | ,APPLE ! ! BR[N !4   | YES
+276  | Quick cherry quick cherry fox. | ,QK *]RY QK *]RY FOX4 | ,QK *]RY QK *]RY FOX4 | YES
+277  | Cherry the fox banana cherry.  | ,*]RY ! FOX BANANA *]RY4 | ,*]RY ! FOX BANANA *]RY4 | YES
+278  | Lazy banana quick brown dog.   | ,LAZY BANANA QK BR[N DOG4 | ,LAZY BANANA QK BR[N DOG4 | YES
+279  | The the jumps lazy quick.      | ,! ! JUMPS LAZY QK4  | ,! ! JUMPS LAZY QK4  | YES
+280  | Quick brown banana quick brown | ,QK BR[N BANANA QK BR[N4 | ,QK BR[N BANANA QK BR[N4 | YES
+281  | Brown the jumps banana apple.  | ,BR[N ! JUMPS BANANA APPLE4 | ,BR[N ! JUMPS BANANA APPLE4 | YES
+282  | Over fox brown fox the.        | ,OV] FOX BR[N FOX !4 | ,OV] FOX BR[N FOX !4 | YES
+283  | Fox over apple dog lazy.       | ,FOX OV] APPLE DOG LAZY4 | ,FOX OV] APPLE DOG LAZY4 | YES
+284  | Dog cherry dog dog lazy.       | ,DOG *]RY DOG DOG LAZY4 | ,DOG *]RY DOG DOG LAZY4 | YES
+285  | Fox quick quick cherry cherry. | ,FOX QK QK *]RY *]RY4 | ,FOX QK QK *]RY *]RY4 | YES
+286  | Jumps over over jumps quick.   | ,JUMPS OV] OV] JUMPS QK4 | ,JUMPS OV] OV] JUMPS QK4 | YES
+287  | Lazy jumps over over brown.    | ,LAZY JUMPS OV] OV] BR[N4 | ,LAZY JUMPS OV] OV] BR[N4 | YES
+288  | Over over apple apple the.     | ,OV] OV] APPLE APPLE !4 | ,OV] OV] APPLE APPLE !4 | YES
+289  | Banana fox quick over cherry.  | ,BANANA FOX QK OV] *]RY4 | ,BANANA FOX QK OV] *]RY4 | YES
+290  | Cherry dog cherry brown apple. | ,*]RY DOG *]RY BR[N APPLE4 | ,*]RY DOG *]RY BR[N APPLE4 | YES
+291  | Quick banana over apple jumps. | ,QK BANANA OV] APPLE JUMPS4 | ,QK BANANA OV] APPLE JUMPS4 | YES
+292  | Cherry banana the cherry banan | ,*]RY BANANA ! *]RY BANANA4 | ,*]RY BANANA ! *]RY BANANA4 | YES
+293  | Banana apple fox the cherry.   | ,BANANA APPLE FOX ! *]RY4 | ,BANANA APPLE FOX ! *]RY4 | YES
+294  | Cherry dog fox over dog.       | ,*]RY DOG FOX OV] DOG4 | ,*]RY DOG FOX OV] DOG4 | YES
+295  | Lazy over quick fox apple.     | ,LAZY OV] QK FOX APPLE4 | ,LAZY OV] QK FOX APPLE4 | YES
+296  | Dog cherry quick apple fox.    | ,DOG *]RY QK APPLE FOX4 | ,DOG *]RY QK APPLE FOX4 | YES
+297  | Brown banana dog brown lazy.   | ,BR[N BANANA DOG BR[N LAZY4 | ,BR[N BANANA DOG BR[N LAZY4 | YES
+298  | Over fox brown the apple.      | ,OV] FOX BR[N ! APPLE4 | ,OV] FOX BR[N ! APPLE4 | YES
+299  | Banana dog over fox cherry.    | ,BANANA DOG OV] FOX *]RY4 | ,BANANA DOG OV] FOX *]RY4 | YES
+300  | Over cherry quick dog quick.   | ,OV] *]RY QK DOG QK4 | ,OV] *]RY QK DOG QK4 | YES
+301  | Brown apple apple lazy banana. | ,BR[N APPLE APPLE LAZY BANANA4 | ,BR[N APPLE APPLE LAZY BANANA4 | YES
+302  | Brown dog over banana jumps.   | ,BR[N DOG OV] BANANA JUMPS4 | ,BR[N DOG OV] BANANA JUMPS4 | YES
+303  | The jumps fox quick lazy.      | ,! JUMPS FOX QK LAZY4 | ,! JUMPS FOX QK LAZY4 | YES
+304  | Lazy quick fox apple cherry.   | ,LAZY QK FOX APPLE *]RY4 | ,LAZY QK FOX APPLE *]RY4 | YES
+305  | Lazy cherry dog banana over.   | ,LAZY *]RY DOG BANANA OV]4 | ,LAZY *]RY DOG BANANA OV]4 | YES
+306  | Dog lazy jumps jumps lazy.     | ,DOG LAZY JUMPS JUMPS LAZY4 | ,DOG LAZY JUMPS JUMPS LAZY4 | YES
+307  | Fox over over dog the.         | ,FOX OV] OV] DOG !4  | ,FOX OV] OV] DOG !4  | YES
+308  | The lazy apple banana the.     | ,! LAZY APPLE BANANA !4 | ,! LAZY APPLE BANANA !4 | YES
+309  | Dog fox jumps banana cherry.   | ,DOG FOX JUMPS BANANA *]RY4 | ,DOG FOX JUMPS BANANA *]RY4 | YES
+310  | Quick fox over dog brown.      | ,QK FOX OV] DOG BR[N4 | ,QK FOX OV] DOG BR[N4 | YES
+311  | Dog over fox apple apple.      | ,DOG OV] FOX APPLE APPLE4 | ,DOG OV] FOX APPLE APPLE4 | YES
+312  | Jumps lazy over the fox.       | ,JUMPS LAZY OV] ! FOX4 | ,JUMPS LAZY OV] ! FOX4 | YES
+313  | Lazy apple dog jumps banana.   | ,LAZY APPLE DOG JUMPS BANANA4 | ,LAZY APPLE DOG JUMPS BANANA4 | YES
+314  | Apple quick dog the jumps.     | ,APPLE QK DOG ! JUMPS4 | ,APPLE QK DOG ! JUMPS4 | YES
+315  | Over lazy the fox brown.       | ,OV] LAZY ! FOX BR[N4 | ,OV] LAZY ! FOX BR[N4 | YES
+316  | Quick jumps over lazy over.    | ,QK JUMPS OV] LAZY OV]4 | ,QK JUMPS OV] LAZY OV]4 | YES
+317  | Jumps cherry lazy fox over.    | ,JUMPS *]RY LAZY FOX OV]4 | ,JUMPS *]RY LAZY FOX OV]4 | YES
+318  | Dog banana fox dog over.       | ,DOG BANANA FOX DOG OV]4 | ,DOG BANANA FOX DOG OV]4 | YES
+319  | Apple jumps fox over cherry.   | ,APPLE JUMPS FOX OV] *]RY4 | ,APPLE JUMPS FOX OV] *]RY4 | YES
+320  | Apple cherry apple jumps apple | ,APPLE *]RY APPLE JUMPS APPLE4 | ,APPLE *]RY APPLE JUMPS APPLE4 | YES
+321  | Cherry banana apple jumps appl | ,*]RY BANANA APPLE JUMPS APPLE4 | ,*]RY BANANA APPLE JUMPS APPLE4 | YES
+322  | Jumps banana lazy jumps jumps. | ,JUMPS BANANA LAZY JUMPS JUMPS4 | ,JUMPS BANANA LAZY JUMPS JUMPS4 | YES
+323  | Dog cherry jumps banana cherry | ,DOG *]RY JUMPS BANANA *]RY4 | ,DOG *]RY JUMPS BANANA *]RY4 | YES
+324  | The lazy dog brown brown.      | ,! LAZY DOG BR[N BR[N4 | ,! LAZY DOG BR[N BR[N4 | YES
+325  | Apple fox over dog jumps.      | ,APPLE FOX OV] DOG JUMPS4 | ,APPLE FOX OV] DOG JUMPS4 | YES
+326  | Quick lazy brown fox cherry.   | ,QK LAZY BR[N FOX *]RY4 | ,QK LAZY BR[N FOX *]RY4 | YES
+327  | Cherry lazy jumps jumps lazy.  | ,*]RY LAZY JUMPS JUMPS LAZY4 | ,*]RY LAZY JUMPS JUMPS LAZY4 | YES
+328  | Quick brown jumps banana banan | ,QK BR[N JUMPS BANANA BANANA4 | ,QK BR[N JUMPS BANANA BANANA4 | YES
+329  | Over jumps lazy dog over.      | ,OV] JUMPS LAZY DOG OV]4 | ,OV] JUMPS LAZY DOG OV]4 | YES
+330  | Over jumps fox fox fox.        | ,OV] JUMPS FOX FOX FOX4 | ,OV] JUMPS FOX FOX FOX4 | YES
+331  | Jumps jumps dog cherry fox.    | ,JUMPS JUMPS DOG *]RY FOX4 | ,JUMPS JUMPS DOG *]RY FOX4 | YES
+332  | Fox brown lazy jumps dog.      | ,FOX BR[N LAZY JUMPS DOG4 | ,FOX BR[N LAZY JUMPS DOG4 | YES
+333  | Quick apple dog quick brown.   | ,QK APPLE DOG QK BR[N4 | ,QK APPLE DOG QK BR[N4 | YES
+334  | Dog dog brown banana cherry.   | ,DOG DOG BR[N BANANA *]RY4 | ,DOG DOG BR[N BANANA *]RY4 | YES
+335  | Banana brown jumps apple quick | ,BANANA BR[N JUMPS APPLE QK4 | ,BANANA BR[N JUMPS APPLE QK4 | YES
+336  | Cherry apple quick the cherry. | ,*]RY APPLE QK ! *]RY4 | ,*]RY APPLE QK ! *]RY4 | YES
+337  | Dog apple dog jumps apple.     | ,DOG APPLE DOG JUMPS APPLE4 | ,DOG APPLE DOG JUMPS APPLE4 | YES
+338  | Dog over brown brown the.      | ,DOG OV] BR[N BR[N !4 | ,DOG OV] BR[N BR[N !4 | YES
+339  | Quick banana banana over apple | ,QK BANANA BANANA OV] APPLE4 | ,QK BANANA BANANA OV] APPLE4 | YES
+340  | The lazy brown lazy lazy.      | ,! LAZY BR[N LAZY LAZY4 | ,! LAZY BR[N LAZY LAZY4 | YES
+341  | Lazy the dog cherry apple.     | ,LAZY ! DOG *]RY APPLE4 | ,LAZY ! DOG *]RY APPLE4 | YES
+342  | Over quick apple cherry quick. | ,OV] QK APPLE *]RY QK4 | ,OV] QK APPLE *]RY QK4 | YES
+343  | Lazy lazy brown dog dog.       | ,LAZY LAZY BR[N DOG DOG4 | ,LAZY LAZY BR[N DOG DOG4 | YES
+344  | Jumps brown cherry lazy jumps. | ,JUMPS BR[N *]RY LAZY JUMPS4 | ,JUMPS BR[N *]RY LAZY JUMPS4 | YES
+345  | Apple lazy the banana fox.     | ,APPLE LAZY ! BANANA FOX4 | ,APPLE LAZY ! BANANA FOX4 | YES
+346  | The jumps cherry jumps cherry. | ,! JUMPS *]RY JUMPS *]RY4 | ,! JUMPS *]RY JUMPS *]RY4 | YES
+347  | Apple dog lazy quick dog.      | ,APPLE DOG LAZY QK DOG4 | ,APPLE DOG LAZY QK DOG4 | YES
+348  | Cherry brown cherry fox dog.   | ,*]RY BR[N *]RY FOX DOG4 | ,*]RY BR[N *]RY FOX DOG4 | YES
+349  | Dog over dog apple over.       | ,DOG OV] DOG APPLE OV]4 | ,DOG OV] DOG APPLE OV]4 | YES
+350  | Apple cherry brown fox brown.  | ,APPLE *]RY BR[N FOX BR[N4 | ,APPLE *]RY BR[N FOX BR[N4 | YES
+351  | Apple the jumps apple brown.   | ,APPLE ! JUMPS APPLE BR[N4 | ,APPLE ! JUMPS APPLE BR[N4 | YES
+352  | Jumps brown banana fox banana. | ,JUMPS BR[N BANANA FOX BANANA4 | ,JUMPS BR[N BANANA FOX BANANA4 | YES
+353  | Quick brown dog lazy quick.    | ,QK BR[N DOG LAZY QK4 | ,QK BR[N DOG LAZY QK4 | YES
+354  | Quick dog lazy brown cherry.   | ,QK DOG LAZY BR[N *]RY4 | ,QK DOG LAZY BR[N *]RY4 | YES
+355  | Apple over lazy jumps fox.     | ,APPLE OV] LAZY JUMPS FOX4 | ,APPLE OV] LAZY JUMPS FOX4 | YES
+356  | Dog lazy lazy apple quick.     | ,DOG LAZY LAZY APPLE QK4 | ,DOG LAZY LAZY APPLE QK4 | YES
+357  | Apple over banana cherry jumps | ,APPLE OV] BANANA *]RY JUMPS4 | ,APPLE OV] BANANA *]RY JUMPS4 | YES
+358  | The apple the apple over.      | ,! APPLE ! APPLE OV]4 | ,! APPLE ! APPLE OV]4 | YES
+359  | Brown lazy over quick lazy.    | ,BR[N LAZY OV] QK LAZY4 | ,BR[N LAZY OV] QK LAZY4 | YES
+360  | Quick jumps over the fox.      | ,QK JUMPS OV] ! FOX4 | ,QK JUMPS OV] ! FOX4 | YES
+361  | Fox the cherry fox jumps.      | ,FOX ! *]RY FOX JUMPS4 | ,FOX ! *]RY FOX JUMPS4 | YES
+362  | Jumps over jumps brown jumps.  | ,JUMPS OV] JUMPS BR[N JUMPS4 | ,JUMPS OV] JUMPS BR[N JUMPS4 | YES
+363  | The banana lazy banana banana. | ,! BANANA LAZY BANANA BANANA4 | ,! BANANA LAZY BANANA BANANA4 | YES
+364  | Brown lazy dog cherry cherry.  | ,BR[N LAZY DOG *]RY *]RY4 | ,BR[N LAZY DOG *]RY *]RY4 | YES
+365  | Jumps over dog apple fox.      | ,JUMPS OV] DOG APPLE FOX4 | ,JUMPS OV] DOG APPLE FOX4 | YES
+366  | Dog lazy fox brown lazy.       | ,DOG LAZY FOX BR[N LAZY4 | ,DOG LAZY FOX BR[N LAZY4 | YES
+367  | Over dog brown over the.       | ,OV] DOG BR[N OV] !4 | ,OV] DOG BR[N OV] !4 | YES
+368  | The brown fox dog dog.         | ,! BR[N FOX DOG DOG4 | ,! BR[N FOX DOG DOG4 | YES
+369  | The apple the lazy fox.        | ,! APPLE ! LAZY FOX4 | ,! APPLE ! LAZY FOX4 | YES
+370  | Jumps dog the brown the.       | ,JUMPS DOG ! BR[N !4 | ,JUMPS DOG ! BR[N !4 | YES
+371  | Dog brown dog quick over.      | ,DOG BR[N DOG QK OV]4 | ,DOG BR[N DOG QK OV]4 | YES
+372  | Over jumps apple brown lazy.   | ,OV] JUMPS APPLE BR[N LAZY4 | ,OV] JUMPS APPLE BR[N LAZY4 | YES
+373  | Fox jumps fox the apple.       | ,FOX JUMPS FOX ! APPLE4 | ,FOX JUMPS FOX ! APPLE4 | YES
+374  | Quick over brown dog the.      | ,QK OV] BR[N DOG !4  | ,QK OV] BR[N DOG !4  | YES
+375  | Brown apple lazy over brown.   | ,BR[N APPLE LAZY OV] BR[N4 | ,BR[N APPLE LAZY OV] BR[N4 | YES
+376  | Lazy dog over apple cherry.    | ,LAZY DOG OV] APPLE *]RY4 | ,LAZY DOG OV] APPLE *]RY4 | YES
+377  | Lazy jumps dog dog over.       | ,LAZY JUMPS DOG DOG OV]4 | ,LAZY JUMPS DOG DOG OV]4 | YES
+378  | Apple dog over lazy fox.       | ,APPLE DOG OV] LAZY FOX4 | ,APPLE DOG OV] LAZY FOX4 | YES
+379  | Banana brown apple apple lazy. | ,BANANA BR[N APPLE APPLE LAZY4 | ,BANANA BR[N APPLE APPLE LAZY4 | YES
+380  | Lazy cherry cherry fox apple.  | ,LAZY *]RY *]RY FOX APPLE4 | ,LAZY *]RY *]RY FOX APPLE4 | YES
+381  | Brown quick brown fox lazy.    | ,BR[N QK BR[N FOX LAZY4 | ,BR[N QK BR[N FOX LAZY4 | YES
+382  | Lazy dog fox jumps lazy.       | ,LAZY DOG FOX JUMPS LAZY4 | ,LAZY DOG FOX JUMPS LAZY4 | YES
+383  | Cherry brown cherry the lazy.  | ,*]RY BR[N *]RY ! LAZY4 | ,*]RY BR[N *]RY ! LAZY4 | YES
+384  | Jumps apple dog over fox dog.  | ,JUMPS APPLE DOG OV] FOX DOG4 | ,JUMPS APPLE DOG OV] FOX DOG4 | YES
+385  | Quick jumps apple fox over ban | ,QK JUMPS APPLE FOX OV] BANANA4 | ,QK JUMPS APPLE FOX OV] BANANA4 | YES
+386  | Fox jumps apple cherry cherry  | ,FOX JUMPS APPLE *]RY *]RY DOG4 | ,FOX JUMPS APPLE *]RY *]RY DOG4 | YES
+387  | Apple cherry quick apple banan | ,APPLE *]RY QK APPLE BANANA BANANA4 | ,APPLE *]RY QK APPLE BANANA BANANA4 | YES
+388  | Over banana over brown lazy ju | ,OV] BANANA OV] BR[N LAZY JUMPS4 | ,OV] BANANA OV] BR[N LAZY JUMPS4 | YES
+389  | Lazy banana jumps quick over o | ,LAZY BANANA JUMPS QK OV] OV]4 | ,LAZY BANANA JUMPS QK OV] OV]4 | YES
+390  | The the dog apple jumps dog.   | ,! ! DOG APPLE JUMPS DOG4 | ,! ! DOG APPLE JUMPS DOG4 | YES
+391  | Over dog the quick over apple. | ,OV] DOG ! QK OV] APPLE4 | ,OV] DOG ! QK OV] APPLE4 | YES
+392  | The jumps cherry quick cherry  | ,! JUMPS *]RY QK *]RY BANANA4 | ,! JUMPS *]RY QK *]RY BANANA4 | YES
+393  | Lazy apple over quick apple do | ,LAZY APPLE OV] QK APPLE DOG4 | ,LAZY APPLE OV] QK APPLE DOG4 | YES
+394  | Brown over apple apple quick l | ,BR[N OV] APPLE APPLE QK LAZY4 | ,BR[N OV] APPLE APPLE QK LAZY4 | YES
+395  | Jumps fox quick fox dog fox.   | ,JUMPS FOX QK FOX DOG FOX4 | ,JUMPS FOX QK FOX DOG FOX4 | YES
+396  | Cherry fox brown lazy jumps fo | ,*]RY FOX BR[N LAZY JUMPS FOX4 | ,*]RY FOX BR[N LAZY JUMPS FOX4 | YES
+397  | Banana the cherry jumps the ov | ,BANANA ! *]RY JUMPS ! OV]4 | ,BANANA ! *]RY JUMPS ! OV]4 | YES
+398  | Brown lazy banana lazy fox laz | ,BR[N LAZY BANANA LAZY FOX LAZY4 | ,BR[N LAZY BANANA LAZY FOX LAZY4 | YES
+399  | Over fox quick dog apple cherr | ,OV] FOX QK DOG APPLE *]RY4 | ,OV] FOX QK DOG APPLE *]RY4 | YES
+400  | Brown jumps apple quick the ch | ,BR[N JUMPS APPLE QK ! *]RY4 | ,BR[N JUMPS APPLE QK ! *]RY4 | YES

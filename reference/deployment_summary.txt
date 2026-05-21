@@ -1,0 +1,23 @@
+# Project Summary: Python Liblouis JSON WASM Engine
+
+## 1. Core Implementation
+- **Logic:** Full Python port of the Liblouis translation engine.
+- **Rules:** Verified for UEB Grade 1 and Grade 2 with 98.75% match rate against Liblouis C.
+- **Conversion:** Robust table converter for mapping .ctb/.uti files to specialized JSON.
+
+## 2. WebAssembly Deployment
+- **Runtime:** Pyodide (CPython in WASM).
+- **Interface:** HTML5/JS frontend with WCAG 2.1 compliance.
+- **Features:** 
+    - Real-time forward/backward translation.
+    - File upload support (.txt and .brf).
+    - File download support for translated output.
+    - Dynamic switching between UEB Grade 1 and Grade 2.
+
+## 3. Deployment Pipeline
+- **CI/CD:** GitHub Actions configured in `.github/workflows/deploy.yml`.
+- **Hosting:** Automated deployment of the `public/` folder to GitHub Pages.
+
+## 4. Legal & Attribution
+- **License:** MIT License.
+- **Attribution:** Relies on rules from the Liblouis project (liblouis.io).

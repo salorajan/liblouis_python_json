@@ -1,0 +1,6703 @@
+{
+  "settings": {
+    "number_sign": "3456",
+    "caps_letter": "46",
+    "beg_caps_word": "46-46",
+    "litdigits": {
+      "0": "245",
+      "1": "1",
+      "2": "12",
+      "3": "14",
+      "4": "145",
+      "5": "15",
+      "6": "124",
+      "7": "1245",
+      "8": "125",
+      "9": "24"
+    }
+  },
+  "characters": [
+    {
+      "char": "k",
+      "dots": "13b",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "w",
+      "dots": "2456b",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "x",
+      "dots": "1346b",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\t",
+      "dots": "0",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "\u001b",
+      "dots": "1b",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "\u00a0",
+      "dots": "0",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": " ",
+      "dots": "0",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "\u0000",
+      "dots": "0",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\n",
+      "dots": "0",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "\u000b",
+      "dots": "0",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "\f",
+      "dots": "0",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "\r",
+      "dots": "0",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "\u2000",
+      "dots": "0",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "\u2001",
+      "dots": "0",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "\u2002",
+      "dots": "0",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "\u2003",
+      "dots": "0",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "\u2004",
+      "dots": "0",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "\u2005",
+      "dots": "0",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "\u2006",
+      "dots": "0",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "\u2007",
+      "dots": "0",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "\u2008",
+      "dots": "0",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "\u2009",
+      "dots": "0",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "\u200a",
+      "dots": "0",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "\u200b",
+      "dots": "0",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "\u2028",
+      "dots": "0",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "\u2029",
+      "dots": "0",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "\u202f",
+      "dots": "0",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "\u205f",
+      "dots": "0",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "\u2060",
+      "dots": "0",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "\u2800",
+      "dots": "0",
+      "attributes": [
+        "space",
+        "sign"
+      ]
+    },
+    {
+      "char": "\ufeff",
+      "dots": "0",
+      "attributes": [
+        "space"
+      ]
+    },
+    {
+      "char": "a",
+      "dots": "1",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "b",
+      "dots": "12",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "c",
+      "dots": "14",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "d",
+      "dots": "145",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "e",
+      "dots": "15",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "f",
+      "dots": "124",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "g",
+      "dots": "1245",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "h",
+      "dots": "125",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "i",
+      "dots": "24",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "j",
+      "dots": "245",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "l",
+      "dots": "123",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "m",
+      "dots": "134",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "n",
+      "dots": "1345",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "o",
+      "dots": "135",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "p",
+      "dots": "1234",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "q",
+      "dots": "12345",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "r",
+      "dots": "1235",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "s",
+      "dots": "234",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "t",
+      "dots": "2345",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "u",
+      "dots": "136",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "v",
+      "dots": "1236",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "y",
+      "dots": "13456",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "z",
+      "dots": "1356",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u00e1",
+      "dots": "12356",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u00e9",
+      "dots": "2346",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u00ed",
+      "dots": "34",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u00f1",
+      "dots": "12456",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u00f3",
+      "dots": "346",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u00fa",
+      "dots": "23456",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u00fc",
+      "dots": "1256",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "!",
+      "dots": "235",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\"",
+      "dots": "236",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "'",
+      "dots": "3",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "(",
+      "dots": "126",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": ")",
+      "dots": "345",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "*",
+      "dots": "35",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "+",
+      "dots": "235",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": ",",
+      "dots": "2",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "-",
+      "dots": "36",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": ".",
+      "dots": "3",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": ":",
+      "dots": "25",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": ";",
+      "dots": "23",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "<",
+      "dots": "246",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "=",
+      "dots": "2356",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": ">",
+      "dots": "135",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "?",
+      "dots": "26",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "[",
+      "dots": "12356",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "]",
+      "dots": "23456",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "|",
+      "dots": "456",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u0082",
+      "dots": "2",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\u0084",
+      "dots": "236",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\u0093",
+      "dots": "236",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\u0094",
+      "dots": "236",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\u0096",
+      "dots": "36",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\u00a1",
+      "dots": "235",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\u00ab",
+      "dots": "236",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\u00ad",
+      "dots": "36",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\u00bb",
+      "dots": "236",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\u00bf",
+      "dots": "26",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\u00d7",
+      "dots": "236",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u00f7",
+      "dots": "256",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u2010",
+      "dots": "36",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\u2011",
+      "dots": "36",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\u2012",
+      "dots": "36",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\u2013",
+      "dots": "36",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\u2018",
+      "dots": "236",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\u2019",
+      "dots": "236",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\u201a",
+      "dots": "236",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\u201b",
+      "dots": "236",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\u201c",
+      "dots": "236",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\u201d",
+      "dots": "236",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\u201e",
+      "dots": "236",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\u201f",
+      "dots": "236",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\u2043",
+      "dots": "36",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "$",
+      "dots": "456-234",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "%",
+      "dots": "456-356",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "&",
+      "dots": "6-12346",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "/",
+      "dots": "6-2",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "@",
+      "dots": "5",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\\",
+      "dots": "5-3",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "{",
+      "dots": "5-123",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "}",
+      "dots": "456-2",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u0080",
+      "dots": "456-15",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u0085",
+      "dots": "3-3-3",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\u0089",
+      "dots": "456-356-356",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u0097",
+      "dots": "36-36",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\u00a2",
+      "dots": "45-14",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u00a3",
+      "dots": "5-2346",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u00a5",
+      "dots": "456-13456",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u00a9",
+      "dots": "126-46-14-345",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u00ae",
+      "dots": "126-46-1235-345",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u00b1",
+      "dots": "235-25-36",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u00b2",
+      "dots": "16-3456-12",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u00b3",
+      "dots": "16-3456-14",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u00b5",
+      "dots": "4-134",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u00bc",
+      "dots": "3456-2-145",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u00bd",
+      "dots": "3456-2-12",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u00be",
+      "dots": "3456-25-145",
+      "attributes": [
+        "math"
+      ]
+    },
+    {
+      "char": "\u03b1",
+      "dots": "4-1",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u03b2",
+      "dots": "4-12",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u03b3",
+      "dots": "4-1245",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u03b4",
+      "dots": "4-145",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u03b5",
+      "dots": "4-15",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u03b6",
+      "dots": "4-1356",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u03b7",
+      "dots": "4-156",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u03b8",
+      "dots": "4-1456",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u03b9",
+      "dots": "4-24",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u03ba",
+      "dots": "4-13",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u03bb",
+      "dots": "4-123",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u03bc",
+      "dots": "4-134",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u03bd",
+      "dots": "4-1345",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u03be",
+      "dots": "4-1346",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u03bf",
+      "dots": "4-135",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u03c0",
+      "dots": "4-1234",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u03c1",
+      "dots": "4-1235",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u03c2",
+      "dots": "4-234",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u03c3",
+      "dots": "4-234",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u03c4",
+      "dots": "4-2345",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u03c5",
+      "dots": "4-136",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u03c6",
+      "dots": "4-124",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u03c7",
+      "dots": "4-12346",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u03c8",
+      "dots": "4-13456",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u03c9",
+      "dots": "4-2456",
+      "attributes": [
+        "lowercase"
+      ]
+    },
+    {
+      "char": "\u2014",
+      "dots": "36-36",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\u2015",
+      "dots": "36-36",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\u2026",
+      "dots": "3-3-3",
+      "attributes": [
+        "punctuation"
+      ]
+    },
+    {
+      "char": "\u20ac",
+      "dots": "456-15",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2801",
+      "dots": "1",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2802",
+      "dots": "2",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2803",
+      "dots": "12",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2804",
+      "dots": "3",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2805",
+      "dots": "13",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2806",
+      "dots": "23",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2807",
+      "dots": "123",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2808",
+      "dots": "4",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2809",
+      "dots": "14",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u280a",
+      "dots": "24",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u280b",
+      "dots": "124",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u280c",
+      "dots": "34",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u280d",
+      "dots": "134",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u280e",
+      "dots": "234",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u280f",
+      "dots": "1234",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2810",
+      "dots": "5",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2811",
+      "dots": "15",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2812",
+      "dots": "25",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2813",
+      "dots": "125",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2814",
+      "dots": "35",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2815",
+      "dots": "135",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2816",
+      "dots": "235",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2817",
+      "dots": "1235",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2818",
+      "dots": "45",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2819",
+      "dots": "145",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u281a",
+      "dots": "245",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u281b",
+      "dots": "1245",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u281c",
+      "dots": "345",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u281d",
+      "dots": "1345",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u281e",
+      "dots": "2345",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u281f",
+      "dots": "12345",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2820",
+      "dots": "6",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2821",
+      "dots": "16",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2822",
+      "dots": "26",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2823",
+      "dots": "126",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2824",
+      "dots": "36",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2825",
+      "dots": "136",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2826",
+      "dots": "236",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2827",
+      "dots": "1236",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2828",
+      "dots": "46",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2829",
+      "dots": "146",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u282a",
+      "dots": "246",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u282b",
+      "dots": "1246",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u282c",
+      "dots": "346",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u282d",
+      "dots": "1346",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u282e",
+      "dots": "2346",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u282f",
+      "dots": "12346",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2830",
+      "dots": "56",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2831",
+      "dots": "156",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2832",
+      "dots": "256",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2833",
+      "dots": "1256",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2834",
+      "dots": "356",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2835",
+      "dots": "1356",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2836",
+      "dots": "2356",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2837",
+      "dots": "12356",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2838",
+      "dots": "456",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2839",
+      "dots": "1456",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u283a",
+      "dots": "2456",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u283b",
+      "dots": "12456",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u283c",
+      "dots": "3456",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u283d",
+      "dots": "13456",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u283e",
+      "dots": "23456",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u283f",
+      "dots": "123456",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2840",
+      "dots": "7",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2841",
+      "dots": "17",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2842",
+      "dots": "27",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2843",
+      "dots": "127",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2844",
+      "dots": "37",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2845",
+      "dots": "137",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2846",
+      "dots": "237",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2847",
+      "dots": "1237",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2848",
+      "dots": "47",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2849",
+      "dots": "147",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u284a",
+      "dots": "247",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u284b",
+      "dots": "1247",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u284c",
+      "dots": "347",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u284d",
+      "dots": "1347",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u284e",
+      "dots": "2347",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u284f",
+      "dots": "12347",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2850",
+      "dots": "57",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2851",
+      "dots": "157",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2852",
+      "dots": "257",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2853",
+      "dots": "1257",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2854",
+      "dots": "357",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2855",
+      "dots": "1357",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2856",
+      "dots": "2357",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2857",
+      "dots": "12357",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2858",
+      "dots": "457",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2859",
+      "dots": "1457",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u285a",
+      "dots": "2457",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u285b",
+      "dots": "12457",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u285c",
+      "dots": "3457",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u285d",
+      "dots": "13457",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u285e",
+      "dots": "23457",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u285f",
+      "dots": "123457",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2860",
+      "dots": "67",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2861",
+      "dots": "167",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2862",
+      "dots": "267",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2863",
+      "dots": "1267",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2864",
+      "dots": "367",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2865",
+      "dots": "1367",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2866",
+      "dots": "2367",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2867",
+      "dots": "12367",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2868",
+      "dots": "467",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2869",
+      "dots": "1467",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u286a",
+      "dots": "2467",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u286b",
+      "dots": "12467",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u286c",
+      "dots": "3467",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u286d",
+      "dots": "13467",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u286e",
+      "dots": "23467",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u286f",
+      "dots": "123467",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2870",
+      "dots": "567",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2871",
+      "dots": "1567",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2872",
+      "dots": "2567",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2873",
+      "dots": "12567",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2874",
+      "dots": "3567",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2875",
+      "dots": "13567",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2876",
+      "dots": "23567",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2877",
+      "dots": "123567",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2878",
+      "dots": "4567",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2879",
+      "dots": "14567",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u287a",
+      "dots": "24567",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u287b",
+      "dots": "124567",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u287c",
+      "dots": "34567",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u287d",
+      "dots": "134567",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u287e",
+      "dots": "234567",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u287f",
+      "dots": "1234567",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2880",
+      "dots": "8",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2881",
+      "dots": "18",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2882",
+      "dots": "28",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2883",
+      "dots": "128",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2884",
+      "dots": "38",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2885",
+      "dots": "138",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2886",
+      "dots": "238",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2887",
+      "dots": "1238",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2888",
+      "dots": "48",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2889",
+      "dots": "148",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u288a",
+      "dots": "248",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u288b",
+      "dots": "1248",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u288c",
+      "dots": "348",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u288d",
+      "dots": "1348",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u288e",
+      "dots": "2348",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u288f",
+      "dots": "12348",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2890",
+      "dots": "58",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2891",
+      "dots": "158",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2892",
+      "dots": "258",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2893",
+      "dots": "1258",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2894",
+      "dots": "358",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2895",
+      "dots": "1358",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2896",
+      "dots": "2358",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2897",
+      "dots": "12358",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2898",
+      "dots": "458",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u2899",
+      "dots": "1458",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u289a",
+      "dots": "2458",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u289b",
+      "dots": "12458",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u289c",
+      "dots": "3458",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u289d",
+      "dots": "13458",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u289e",
+      "dots": "23458",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u289f",
+      "dots": "123458",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28a0",
+      "dots": "68",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28a1",
+      "dots": "168",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28a2",
+      "dots": "268",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28a3",
+      "dots": "1268",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28a4",
+      "dots": "368",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28a5",
+      "dots": "1368",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28a6",
+      "dots": "2368",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28a7",
+      "dots": "12368",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28a8",
+      "dots": "468",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28a9",
+      "dots": "1468",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28aa",
+      "dots": "2468",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28ab",
+      "dots": "12468",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28ac",
+      "dots": "3468",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28ad",
+      "dots": "13468",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28ae",
+      "dots": "23468",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28af",
+      "dots": "123468",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28b0",
+      "dots": "568",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28b1",
+      "dots": "1568",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28b2",
+      "dots": "2568",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28b3",
+      "dots": "12568",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28b4",
+      "dots": "3568",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28b5",
+      "dots": "13568",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28b6",
+      "dots": "23568",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28b7",
+      "dots": "123568",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28b8",
+      "dots": "4568",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28b9",
+      "dots": "14568",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28ba",
+      "dots": "24568",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28bb",
+      "dots": "124568",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28bc",
+      "dots": "34568",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28bd",
+      "dots": "134568",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28be",
+      "dots": "234568",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28bf",
+      "dots": "1234568",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28c0",
+      "dots": "78",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28c1",
+      "dots": "178",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28c2",
+      "dots": "278",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28c3",
+      "dots": "1278",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28c4",
+      "dots": "378",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28c5",
+      "dots": "1378",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28c6",
+      "dots": "2378",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28c7",
+      "dots": "12378",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28c8",
+      "dots": "478",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28c9",
+      "dots": "1478",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28ca",
+      "dots": "2478",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28cb",
+      "dots": "12478",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28cc",
+      "dots": "3478",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28cd",
+      "dots": "13478",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28ce",
+      "dots": "23478",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28cf",
+      "dots": "123478",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28d0",
+      "dots": "578",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28d1",
+      "dots": "1578",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28d2",
+      "dots": "2578",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28d3",
+      "dots": "12578",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28d4",
+      "dots": "3578",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28d5",
+      "dots": "13578",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28d6",
+      "dots": "23578",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28d7",
+      "dots": "123578",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28d8",
+      "dots": "4578",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28d9",
+      "dots": "14578",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28da",
+      "dots": "24578",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28db",
+      "dots": "124578",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28dc",
+      "dots": "34578",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28dd",
+      "dots": "134578",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28de",
+      "dots": "234578",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28df",
+      "dots": "1234578",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28e0",
+      "dots": "678",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28e1",
+      "dots": "1678",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28e2",
+      "dots": "2678",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28e3",
+      "dots": "12678",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28e4",
+      "dots": "3678",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28e5",
+      "dots": "13678",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28e6",
+      "dots": "23678",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28e7",
+      "dots": "123678",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28e8",
+      "dots": "4678",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28e9",
+      "dots": "14678",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28ea",
+      "dots": "24678",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28eb",
+      "dots": "124678",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28ec",
+      "dots": "34678",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28ed",
+      "dots": "134678",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28ee",
+      "dots": "234678",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28ef",
+      "dots": "1234678",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28f0",
+      "dots": "5678",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28f1",
+      "dots": "15678",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28f2",
+      "dots": "25678",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28f3",
+      "dots": "125678",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28f4",
+      "dots": "35678",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28f5",
+      "dots": "135678",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28f6",
+      "dots": "235678",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28f7",
+      "dots": "1235678",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28f8",
+      "dots": "45678",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28f9",
+      "dots": "145678",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28fa",
+      "dots": "245678",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28fb",
+      "dots": "1245678",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28fc",
+      "dots": "345678",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28fd",
+      "dots": "1345678",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28fe",
+      "dots": "2345678",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\u28ff",
+      "dots": "12345678",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "0",
+      "dots": "245",
+      "attributes": [
+        "digit"
+      ]
+    },
+    {
+      "char": "1",
+      "dots": "1",
+      "attributes": [
+        "digit"
+      ]
+    },
+    {
+      "char": "2",
+      "dots": "12",
+      "attributes": [
+        "digit"
+      ]
+    },
+    {
+      "char": "3",
+      "dots": "14",
+      "attributes": [
+        "digit"
+      ]
+    },
+    {
+      "char": "4",
+      "dots": "145",
+      "attributes": [
+        "digit"
+      ]
+    },
+    {
+      "char": "5",
+      "dots": "15",
+      "attributes": [
+        "digit"
+      ]
+    },
+    {
+      "char": "6",
+      "dots": "124",
+      "attributes": [
+        "digit"
+      ]
+    },
+    {
+      "char": "7",
+      "dots": "1245",
+      "attributes": [
+        "digit"
+      ]
+    },
+    {
+      "char": "8",
+      "dots": "125",
+      "attributes": [
+        "digit"
+      ]
+    },
+    {
+      "char": "9",
+      "dots": "24",
+      "attributes": [
+        "digit"
+      ]
+    },
+    {
+      "char": "\ue001",
+      "dots": "2a",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\ue002",
+      "dots": "23a",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\ue003",
+      "dots": "25a",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\ue004",
+      "dots": "256a",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\ue005",
+      "dots": "26a",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\ue009",
+      "dots": "35a",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\ue008",
+      "dots": "236a",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\ue007",
+      "dots": "2356a",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\ue006",
+      "dots": "235a",
+      "attributes": [
+        "sign"
+      ]
+    },
+    {
+      "char": "\ue000",
+      "dots": "356a",
+      "attributes": [
+        "sign"
+      ]
+    }
+  ],
+  "rules": [
+    {
+      "opcode": "always",
+      "text": "br",
+      "dots": "23a",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "cr",
+      "dots": "25a",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "dr",
+      "dots": "256a",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "en",
+      "dots": "26a",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "in",
+      "dots": "35a",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "er",
+      "dots": "236a",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "gr",
+      "dots": "2356a",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "pr",
+      "dots": "235a",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "tr",
+      "dots": "356a",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "?",
+      "dots": "5-26-236",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "?",
+      "dots": "5-26",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "bien",
+      "dots": "12",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "con",
+      "dots": "14",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "de",
+      "dots": "145",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "el",
+      "dots": "15",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "fue",
+      "dots": "124",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "gran",
+      "dots": "1245",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "haber",
+      "dots": "125",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "si",
+      "dots": "24",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "jam\u00e1s",
+      "dots": "245",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "al",
+      "dots": "13",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "le",
+      "dots": "123",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "me",
+      "dots": "134",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "no",
+      "dots": "1345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "a\u00f1o",
+      "dots": "12456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "por",
+      "dots": "1234",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "que",
+      "dots": "12345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "ser",
+      "dots": "1235",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "se",
+      "dots": "234",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "te",
+      "dots": "2345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "un",
+      "dots": "136",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "vez",
+      "dots": "1236",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "como",
+      "dots": "2456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "son",
+      "dots": "1346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "este",
+      "dots": "1356",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "las",
+      "dots": "12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "ella",
+      "dots": "123456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "mas",
+      "dots": "134-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "\u00e9l",
+      "dots": "2346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "seg\u00fan",
+      "dots": "23456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "para",
+      "dots": "16",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "siempre",
+      "dots": "126",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "ante",
+      "dots": "146",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "cada",
+      "dots": "1456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "muy",
+      "dots": "156",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "es",
+      "dots": "1246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "pues",
+      "dots": "1256",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "los",
+      "dots": "246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "sobre",
+      "dots": "23",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "del",
+      "dots": "256",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "en",
+      "dots": "26",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "pero",
+      "dots": "235",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "grado",
+      "dots": "2356",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "hace",
+      "dots": "236",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "sin",
+      "dots": "35",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "entre",
+      "dots": "356",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "la",
+      "dots": "3",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "lo",
+      "dots": "36",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "n\u00famero",
+      "dots": "3456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "s\u00ed",
+      "dots": "34",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "aquel",
+      "dots": "346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "su",
+      "dots": "345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "estos",
+      "dots": "1356-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "estas",
+      "dots": "1356-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "eso",
+      "dots": "1246-135",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "esa",
+      "dots": "1246-1",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "esos",
+      "dots": "1246-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "\u00e9sas",
+      "dots": "1246-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "aquello",
+      "dots": "346-135",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "aquella",
+      "dots": "346-1",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "aquellas",
+      "dots": "346-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "aquellos",
+      "dots": "346-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "bienes",
+      "dots": "12-1246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "ello",
+      "dots": "123456-135",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "ellas",
+      "dots": "123456-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "ellos",
+      "dots": "123456-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "una",
+      "dots": "136-1",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "uno",
+      "dots": "136-135",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "unos",
+      "dots": "136-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "unas",
+      "dots": "136-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "ese",
+      "dots": "1246-15",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "a\u00f1os",
+      "dots": "12456-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "grados",
+      "dots": "2356-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "n\u00fameros",
+      "dots": "3456-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "seres",
+      "dots": "234-1246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "sones",
+      "dots": "1346-1246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "hacer",
+      "dots": "236-1235",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "hacen",
+      "dots": "236-1345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "hacemos",
+      "dots": "236-134-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "qu\u00e9",
+      "dots": "5-12345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "s\u00e9",
+      "dots": "5-234",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "c\u00f3mo",
+      "dots": "5-2456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "m\u00e1s",
+      "dots": "12356",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "e",
+      "dots": "5-15",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "u",
+      "dots": "5-136",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "absoluto",
+      "dots": "1-12",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "acaso",
+      "dots": "1-14",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "acerca",
+      "dots": "1-14-14",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "apenas",
+      "dots": "1-1234",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "aunque",
+      "dots": "1-136",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "atr\u00e1s",
+      "dots": "1-356",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "buena",
+      "dots": "12-1",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "bajo",
+      "dots": "12-245",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "buenamente",
+      "dots": "12-134",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "buen",
+      "dots": "12-1345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "bueno",
+      "dots": "12-135",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "bastante",
+      "dots": "12-2345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "bondad",
+      "dots": "12-1456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "cc",
+      "dots": "14-14",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "cerca",
+      "dots": "14-14",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "cd",
+      "dots": "14-145",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "cuando",
+      "dots": "14-145",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "ciego",
+      "dots": "14-1245",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "cual",
+      "dots": "14-123",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "cualquier",
+      "dots": "14-12345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "cualquiera",
+      "dots": "14-12345-1",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "casi",
+      "dots": "14-234",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "cierto",
+      "dots": "14-2345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "cuanto",
+      "dots": "14-136",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "cuyo",
+      "dots": "14-13456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "debajo",
+      "dots": "145-12-245",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "dc",
+      "dots": "145-14",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "dec\u00eda",
+      "dots": "145-14",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "dec\u00edan",
+      "dots": "145-14-1345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "donde",
+      "dots": "145-145",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "dondequiera",
+      "dots": "145-145-12345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "df",
+      "dots": "145-124",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "dif\u00edcil",
+      "dots": "145-124",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "diferencia",
+      "dots": "145-124-14",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "diferente",
+      "dots": "145-124-2345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "dijo",
+      "dots": "145-245",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "delante",
+      "dots": "145-123",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "dem\u00e1s",
+      "dots": "145-134",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "demasiado",
+      "dots": "145-134-145",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "despu\u00e9s",
+      "dots": "145-1234",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "desde",
+      "dots": "145-234",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "durante",
+      "dots": "145-136",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "detr\u00e1s",
+      "dots": "145-356",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "efecto",
+      "dots": "15-124",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "efectivo",
+      "dots": "15-124-1236",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "efectividad",
+      "dots": "15-124-1236-1456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "ejemplo",
+      "dots": "15-245",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "ejemplar",
+      "dots": "15-245-1235",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "favor",
+      "dots": "124-1236",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "f\u00e1cil",
+      "dots": "124-12356",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "facilidad",
+      "dots": "124-1456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "grande",
+      "dots": "1245-145",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "general",
+      "dots": "1245-1345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "generalidad",
+      "dots": "1245-1345-1456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "hab\u00eda",
+      "dots": "125-12",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "hbd",
+      "dots": "125-12-145",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "habido",
+      "dots": "125-12-145",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "hab\u00edan",
+      "dots": "125-12-1345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "hacia",
+      "dots": "125-14",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "hijo",
+      "dots": "125-245",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "hm",
+      "dots": "125-134",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "hermano",
+      "dots": "125-134",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "hasta",
+      "dots": "125-234",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "ht",
+      "dots": "125-2345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "historia",
+      "dots": "125-2345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "haya",
+      "dots": "125-13456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "hayan",
+      "dots": "125-13456-1345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "hombre",
+      "dots": "125-2456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "igual",
+      "dots": "24-1245",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "igualdad",
+      "dots": "24-1245-1456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "junto",
+      "dots": "245-2345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "joven",
+      "dots": "245-1236",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "juventud",
+      "dots": "245-1236-2345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "kg",
+      "dots": "13b-1245",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "algo",
+      "dots": "13-1245",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "alguien",
+      "dots": "13-1245-1345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "alg\u00fan",
+      "dots": "13-1345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "alguna",
+      "dots": "13-1345-1",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "alguno",
+      "dots": "13-1345-135",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "alrededor",
+      "dots": "13-1235",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "lg",
+      "dots": "123-1245",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "largo",
+      "dots": "123-1245",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "lejos",
+      "dots": "123-245",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "lu",
+      "dots": "123-136",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "lugar",
+      "dots": "123-136",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "luego",
+      "dots": "123-1256",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "luegos",
+      "dots": "123-1256-234",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "ma",
+      "dots": "134-1",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "madre",
+      "dots": "134-1",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "medio",
+      "dots": "134-145",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "mediante",
+      "dots": "134-145-2345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "mejor",
+      "dots": "134-245",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "mm",
+      "dots": "134-134",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "mismo",
+      "dots": "134-134",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "manera",
+      "dots": "134-1345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "menos",
+      "dots": "134-234",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "mujer",
+      "dots": "134-136",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "mayor",
+      "dots": "134-13456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "mayor\u00eda",
+      "dots": "134-13456-1235",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "mientras",
+      "dots": "134-356",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "nunca",
+      "dots": "1345-14",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "necesario",
+      "dots": "1345-14-1235",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "necesidad",
+      "dots": "1345-14-1456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "nadie",
+      "dots": "1345-145",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "ning\u00fan",
+      "dots": "1345-1245",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "ninguna",
+      "dots": "1345-1245-1",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "ninguno",
+      "dots": "1345-1245-135",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "natural",
+      "dots": "1345-2345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "naturaleza",
+      "dots": "1345-2345-1356",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "naturalidad",
+      "dots": "1345-2345-1456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "nuevo",
+      "dots": "1345-1236",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "novedad",
+      "dots": "1345-1236-1456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "nada",
+      "dots": "1345-1456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "ni\u00f1o",
+      "dots": "1345-12456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "nuestro",
+      "dots": "1345-1256",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "oficio",
+      "dots": "135-124",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "oficial",
+      "dots": "135-124-123",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "oportuno",
+      "dots": "135-1234",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "oportunidad",
+      "dots": "135-1234-1456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "otro",
+      "dots": "135-356",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "ocasi\u00f3n",
+      "dots": "135-3456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "padre",
+      "dots": "1234-1",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "pc",
+      "dots": "1234-14",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "poco",
+      "dots": "1234-14",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "pod\u00eda",
+      "dots": "1234-145",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "pod\u00edan",
+      "dots": "1234-145-1345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "persona",
+      "dots": "1234-1345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "personalidad",
+      "dots": "1234-1345-1456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "porque",
+      "dots": "1234-12345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "poder",
+      "dots": "1234-1235",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "peque\u00f1o",
+      "dots": "1234-12456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "puede",
+      "dots": "1234-1256",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "quien",
+      "dots": "12345-1345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "relaci\u00f3n",
+      "dots": "1235-123",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "relativo",
+      "dots": "1235-123-1236",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "relatividad",
+      "dots": "1235-123-1236-1456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "relatividades",
+      "dots": "1235-123-1236-1456-1246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "raz\u00f3n",
+      "dots": "1235-1356",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "sido",
+      "dots": "234-145",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "siguiente",
+      "dots": "234-1245",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "solo",
+      "dots": "234-123",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "sino",
+      "dots": "234-1345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "superior",
+      "dots": "234-1234",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "superioridad",
+      "dots": "234-1234-1456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "siquiera",
+      "dots": "234-12345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "sitio",
+      "dots": "234-2345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "situaci\u00f3n",
+      "dots": "234-2345-3456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "suyo",
+      "dots": "234-13456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "tambi\u00e9n",
+      "dots": "2345-12",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "todo",
+      "dots": "2345-145",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "ten\u00eda",
+      "dots": "2345-1345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "tenido",
+      "dots": "2345-1345-145",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "ten\u00edan",
+      "dots": "2345-1345-1345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "tiempo",
+      "dots": "2345-1234",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "tampoco",
+      "dots": "2345-1234-14",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "temporal",
+      "dots": "2345-1234-123",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "tener",
+      "dots": "2345-1235",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "tanto",
+      "dots": "2345-2345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "tv",
+      "dots": "2345-1236",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "todav\u00eda",
+      "dots": "2345-1236",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "tuyo",
+      "dots": "2345-13456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "veces",
+      "dots": "1236-14",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "vida",
+      "dots": "1236-145",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "verdad",
+      "dots": "1236-1456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "vuestro",
+      "dots": "1236-1256",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "exterior",
+      "dots": "1346-1235",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "\u00fanico",
+      "dots": "23456-14",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "\u00faltimo",
+      "dots": "23456-123",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "arriba",
+      "dots": "16-1235",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "anterior",
+      "dots": "146-1235",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "anterioridad",
+      "dots": "146-1235-1456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "antes",
+      "dots": "146-234",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "adelante",
+      "dots": "1456-123",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "adem\u00e1s",
+      "dots": "1456-134",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "estaba",
+      "dots": "1246-12",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "estaban",
+      "dots": "1246-12-1345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "estado",
+      "dots": "1246-145",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "est\u00e1n",
+      "dots": "1246-1345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "estando",
+      "dots": "1246-1345-145",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "estar",
+      "dots": "1246-1235",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "est\u00e1",
+      "dots": "1246-2345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "estuvo",
+      "dots": "1246-1236",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "abajo",
+      "dots": "2-345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "breve",
+      "dots": "23-1236",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "brevedad",
+      "dots": "23-1236-1456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "condici\u00f3n",
+      "dots": "25-145-3456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "conmigo",
+      "dots": "25-134",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "consigo",
+      "dots": "25-234",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "consecuencia",
+      "dots": "25-234-14",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "consecuente",
+      "dots": "25-324-2345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "contigo",
+      "dots": "25-2345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "contra",
+      "dots": "25-356",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "contrario",
+      "dots": "25-356-1235",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "contrariedad",
+      "dots": "25-356-1235-1456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "encima",
+      "dots": "26-14",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "entonces",
+      "dots": "26-2345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "principio",
+      "dots": "235-14",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "principal",
+      "dots": "235-14-123",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "propio",
+      "dots": "235-1234",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "propiedad",
+      "dots": "235-1234-1456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "pronto",
+      "dots": "235-2345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "hac\u00eda",
+      "dots": "236-14",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "hac\u00edan",
+      "dots": "236-14-1345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "hacer",
+      "dots": "236-1235",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "inferior",
+      "dots": "35-124",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "inferioridad",
+      "dots": "35-124-1456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "inmediato",
+      "dots": "35-134",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "interior",
+      "dots": "35-1235",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "interioridad",
+      "dots": "35-1235-1456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "inter\u00e9s",
+      "dots": "35-2345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "interesante",
+      "dots": "35-2345-2345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "trabajo",
+      "dots": "356-12",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "trabajar",
+      "dots": "356-12-1235",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "trabajador",
+      "dots": "356-12-156",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "entretanto",
+      "dots": "356-2345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "numeroso",
+      "dots": "3456-234",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "ahora",
+      "dots": "4-125",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "mucho",
+      "dots": "4-134",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "nosotros",
+      "dots": "45-1345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "vosotros",
+      "dots": "45-1236",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "importancia",
+      "dots": "345-1234-14",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "importante",
+      "dots": "345-1234-2345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "sus",
+      "dots": "345-234",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "absolutos",
+      "dots": "1-12-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "absolutas",
+      "dots": "1-12-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "absolutamente",
+      "dots": "1-12-134",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "acciones",
+      "dots": "1-3456-1246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "accionando",
+      "dots": "1-3456-146-145",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "bajos",
+      "dots": "12-245-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "bajas",
+      "dots": "12-245-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "bajes",
+      "dots": "12-245-1246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "buenos",
+      "dots": "12-1345-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "buenas",
+      "dots": "12-1345-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "buenamente",
+      "dots": "12-1345-134",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "bastantes",
+      "dots": "12-2345-1246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "bondades",
+      "dots": "12-1456-1246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "cercas",
+      "dots": "14-14-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "ciegas",
+      "dots": "14-1245-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "ciegos",
+      "dots": "14-1245-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "ciegamente",
+      "dots": "14-1245-134",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "cierta",
+      "dots": "14-2345-1",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "ciertas",
+      "dots": "14-2345-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "ciertos",
+      "dots": "14-2345-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "ciertamente",
+      "dots": "14-2345-134",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "concierto",
+      "dots": "25-14-2345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "cuales",
+      "dots": "14-123-1246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "cu\u00e1l",
+      "dots": "5-14-123",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "cu\u00e1les",
+      "dots": "5-14-123-1246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "cu\u00e1nto",
+      "dots": "5-14-136",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "cu\u00e1ntos",
+      "dots": "5-14-136-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "cu\u00e1ntas",
+      "dots": "5-14-136-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "cuantas",
+      "dots": "14-136-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "cuantos",
+      "dots": "14-136-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "cuya",
+      "dots": "14-13456-1",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "cuyas",
+      "dots": "14-13456-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "cuyos",
+      "dots": "14-13456-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "d\u00f3nde",
+      "dots": "5-145-145",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "diferencias",
+      "dots": "145-124-14-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "diferentes",
+      "dots": "145-124-2345-1246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "demasiados",
+      "dots": "145-134-145-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "demasiadas",
+      "dots": "145-134-145-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "efectos",
+      "dots": "15-124-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "efectivos",
+      "dots": "15-124-1236-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "efectivas",
+      "dots": "15-124-1236-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "efectiva",
+      "dots": "15-124-1236-a",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "efectivamente",
+      "dots": "15-124-1236-134",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "ejemplos",
+      "dots": "15-245-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "favores",
+      "dots": "124-1236-1246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "grandes",
+      "dots": "1245-145-1246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "hijos",
+      "dots": "125-245-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "hijas",
+      "dots": "125-245-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "hermanos",
+      "dots": "125-134-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "hermanas",
+      "dots": "125-134-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "hermana",
+      "dots": "125-134-1",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "hermanastra",
+      "dots": "125-134-1-234-356-1",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "hermanastro",
+      "dots": "125-134-1-234-356-135",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "hermanastras",
+      "dots": "125-134-1-234-356-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "hermanastros",
+      "dots": "125-134-1-234-356-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "historias",
+      "dots": "125-2345-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "prehistoria",
+      "dots": "235-125-2345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "prehistorias",
+      "dots": "235-125-2345-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "hombres",
+      "dots": "125-2456-1246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "juntos",
+      "dots": "245-2345-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "juntas",
+      "dots": "245-2345-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "junta",
+      "dots": "245-2345-1",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "conjunto",
+      "dots": "25-245-2345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "conjuntos",
+      "dots": "25-245-2345-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "conjuntas",
+      "dots": "25-245-2345-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "conjunta",
+      "dots": "25-245-2345-1",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "disjuntos",
+      "dots": "256-245-2345-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "disjuntas",
+      "dots": "256-245-2345-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "algunas",
+      "dots": "13-1345-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "algunos",
+      "dots": "13-1345-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "largos",
+      "dots": "123-1245-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "largas",
+      "dots": "123-1245-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "madres",
+      "dots": "134-1-1246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "medias",
+      "dots": "134-145-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "medios",
+      "dots": "134-145-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "misma",
+      "dots": "134-134-1",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "mismas",
+      "dots": "134-134-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "mismos",
+      "dots": "134-134-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "maneras",
+      "dots": "134-1345-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "sobremanera",
+      "dots": "23-134-1345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "necesarias",
+      "dots": "1345-14-1235-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "necesarios",
+      "dots": "1345-14-1235-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "necesariamente",
+      "dots": "1345-14-1235-134",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "naturalezas",
+      "dots": "1345-2345-1356-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "nuevas",
+      "dots": "1345-1236-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "nuevos",
+      "dots": "1345-1236-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "nuevamente",
+      "dots": "1345-1236-134",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "ni\u00f1a",
+      "dots": "1345-12456-1",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "ni\u00f1as",
+      "dots": "1345-12456-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "ni\u00f1os",
+      "dots": "1345-12456-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "nuestras",
+      "dots": "1345-136-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "nuestros",
+      "dots": "1345-136-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "oficios",
+      "dots": "135-124-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "extraoficial",
+      "dots": "1346-2345-1235-1-135-124-123",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "oportunas",
+      "dots": "135-1234-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "oportunos",
+      "dots": "135-1234-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "inoportuno",
+      "dots": "35-135-1234",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "inoportunos",
+      "dots": "35-135-1234-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "inoportuna",
+      "dots": "35-135-1234-1",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "inoportunas",
+      "dots": "35-135-1234-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "inoportunidad",
+      "dots": "35-135-1234-1456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "j\u00f3venes",
+      "dots": "245-1236-1246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "otras",
+      "dots": "135-356-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "otros",
+      "dots": "135-356-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "ocasiones",
+      "dots": "135-3456-1246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "ocasionalmente",
+      "dots": "135-3456-13-134",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "padres",
+      "dots": "1234-1-1246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "compadre",
+      "dots": "36-1234-1-1246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "compadres",
+      "dots": "36-1234-1-1246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "poca",
+      "dots": "1234-14-1",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "pocas",
+      "dots": "1234-14-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "pocos",
+      "dots": "1234-14-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "personas",
+      "dots": "1234-1345-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "peque\u00f1a",
+      "dots": "1234-12456-1",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "peque\u00f1as",
+      "dots": "1234-12456-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "peque\u00f1os",
+      "dots": "1234-12456-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "peque\u00f1ez",
+      "dots": "1234-12456-15-1356",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "peque\u00f1eces",
+      "dots": "1234-12456-15-14-1246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "pueden",
+      "dots": "1234-1256-1345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "puedes",
+      "dots": "1234-1256-234",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "qui\u00e9n",
+      "dots": "5-12345-1345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "relaciones",
+      "dots": "1235-123-1246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "relacionando",
+      "dots": "1235-123-146-145",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "relativa",
+      "dots": "1235-123-1236-1",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "relativas",
+      "dots": "1235-123-1236-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "relativos",
+      "dots": "1235-123-1236-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "relativamente",
+      "dots": "1235-123-1236-1-134",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "razones",
+      "dots": "1235-1356-1246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "razon",
+      "dots": "1235-1356",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "siguientes",
+      "dots": "234-1245-1246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "solos",
+      "dots": "234-123-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "solas",
+      "dots": "234-123-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "s\u00f3lamente",
+      "dots": "234-123-1-134",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "sola",
+      "dots": "234-123-1",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "sitios",
+      "dots": "234-2345-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "situaciones",
+      "dots": "234-2345-3456-1246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "suyas",
+      "dots": "234-13456-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "suyos",
+      "dots": "234-13456-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "todas",
+      "dots": "2345-145-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "todos",
+      "dots": "2345-145-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "sobretodo",
+      "dots": "23-2345-145",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "conten\u00eda",
+      "dots": "25-2345-1345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "conten\u00edan",
+      "dots": "25-2345-1345-1345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "entreten\u00eda",
+      "dots": "356-2345-1345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "entreten\u00edan",
+      "dots": "356-2345-1345-1345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "reten\u00eda",
+      "dots": "1235-2345-1345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "reten\u00edan",
+      "dots": "1235-2345-1345-1345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "entretiempo",
+      "dots": "356-2345-1234",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "tiempos",
+      "dots": "2345-1234-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "entretiempos",
+      "dots": "356-2345-1234-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "sobretiempo",
+      "dots": "23-2345-1234",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "contener",
+      "dots": "25-2345-1235",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "entretener",
+      "dots": "356-2345-1235",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "tuyas",
+      "dots": "2345-13456-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "tuyos",
+      "dots": "2345-13456-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "convida",
+      "dots": "25-1236-145",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "convidas",
+      "dots": "25-1236-145-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "vidas",
+      "dots": "1236-145-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "vuestras",
+      "dots": "1236-1256-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "vuestros",
+      "dots": "1236-1256-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "\u00fanica",
+      "dots": "23456-14-1",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "\u00fanicamente",
+      "dots": "23456-14-1-134",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "\u00fanicas",
+      "dots": "23456-14-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "\u00fanicos",
+      "dots": "23456-14-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "\u00faltima",
+      "dots": "23456-123-1",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "\u00faltimamente",
+      "dots": "23456-123-1-134",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "\u00faltimas",
+      "dots": "23456-123-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "\u00faltimos",
+      "dots": "23456-123-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "brevemente",
+      "dots": "23-1236-134",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "breves",
+      "dots": "23-1236-1246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "brevedades",
+      "dots": "23-1236-1456-1246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "condiciones",
+      "dots": "25-145-3456-1246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "condicionalmente",
+      "dots": "25-145-3456-13-134",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "incondicionalmente",
+      "dots": "35-25-145-3456-13-134",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "consecuencias",
+      "dots": "25-234-14-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "principios",
+      "dots": "235-14-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "propia",
+      "dots": "235-1234-1",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "propiamente",
+      "dots": "235-1234-1-134",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "propias",
+      "dots": "235-1234-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "propios",
+      "dots": "235-1234-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "inmediatamente",
+      "dots": "35-134-1-134",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "inmediatas",
+      "dots": "35-134-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "inmediata",
+      "dots": "35-134-1",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "inmediatos",
+      "dots": "35-134-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "inmediatez",
+      "dots": "35-134-15-1356",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "intereses",
+      "dots": "35-2345-1246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "interesantemente",
+      "dots": "35-2345-2345-134",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "interesantes",
+      "dots": "35-2345-2345-1246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "trabajas",
+      "dots": "356-12-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "trabajos",
+      "dots": "356-12-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "numerosos",
+      "dots": "3456-246-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "numerosas",
+      "dots": "3456-246-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "muchas",
+      "dots": "4-134-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "muchos",
+      "dots": "4-134-246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "nosotras",
+      "dots": "45-1345-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "vosotras",
+      "dots": "45-1236-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "importancias",
+      "dots": "345-1234-14-12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "importantes",
+      "dots": "345-1234-2345-1246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "quienes",
+      "dots": "12345-1345-1246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "qui\u00e9nes",
+      "dots": "5-12345-1345-1246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "qui\u00e9n",
+      "dots": "5-12345-1345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "ad",
+      "dots": "1456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "al",
+      "dots": "13",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "an",
+      "dots": "146",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "ar",
+      "dots": "16",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "as",
+      "dots": "12346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "em",
+      "dots": "126",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "es",
+      "dots": "1246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "im",
+      "dots": "345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "ion",
+      "dots": "3456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "om",
+      "dots": "2456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "or",
+      "dots": "156",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "os",
+      "dots": "246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "qu",
+      "dots": "12345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "ue",
+      "dots": "1256",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "acci\u00f3n",
+      "dots": "1-3456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "acci\u00f3nes",
+      "dots": "1-3456-1246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "ando",
+      "dots": "146-145",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "andos",
+      "dots": "146-145-234",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "ecci\u00f3n",
+      "dots": "15-3456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "ecciones",
+      "dots": "15-3456-1246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "endo",
+      "dots": "26-145",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "endos",
+      "dots": "26-145-234",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "icci\u00f3n",
+      "dots": "24-3456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "icciones",
+      "dots": "24-3456-1246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "iendo",
+      "dots": "256-145",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "i\u00f3n",
+      "dots": "3456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "iones",
+      "dots": "3456-1246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "mente",
+      "dots": "134",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "mentes",
+      "dots": "134-234",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "que",
+      "dots": "12345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "ques",
+      "dots": "12345-234",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "ucci\u00f3n",
+      "dots": "136-3456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "ucciones",
+      "dots": "136-3456-1246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "com",
+      "dots": "36",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "con",
+      "dots": "25",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "dis",
+      "dots": "256",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "entre",
+      "dots": "356",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "ex",
+      "dots": "1346",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "inter",
+      "dots": "13456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "pre",
+      "dots": "235",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "re",
+      "dots": "1235",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "sobre",
+      "dots": "23",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "compr",
+      "dots": "36-1234-1235",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "contr",
+      "dots": "25-2345-1235",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "consu",
+      "dots": "25-234-136",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "congr",
+      "dots": "25-1245-1235",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "concr",
+      "dots": "25-14-1235",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "condr",
+      "dots": "25-145-1235",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "disgr",
+      "dots": "245-1245-1235",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "distr",
+      "dots": "256-2345-1235",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "entrecr",
+      "dots": "356-14-1235",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "extr",
+      "dots": "1346-3245-1235",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "expr",
+      "dots": "1346-1234-1235",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "interpr",
+      "dots": "13456-1234-1235",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "intergr",
+      "dots": "13456-1245-1235",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "pregr",
+      "dots": "235-1245-1235",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "prepr",
+      "dots": "235-1234-1235",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "retr",
+      "dots": "1235-2345-1235",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "repr",
+      "dots": "1235-1234-1235",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "regr",
+      "dots": "1235-1245-1235",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "recr",
+      "dots": "1235-14-1235",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "rebr",
+      "dots": "1235-12-1235",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "redr",
+      "dots": "1235-145-1235",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "begword",
+      "text": "sobrepr",
+      "dots": "23-1234-1235",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "red",
+      "dots": "1235-15-145",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "rey",
+      "dots": "1235-15-13456",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "res",
+      "dots": "1235-15-234",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "sobren",
+      "dots": "234-135-23-25",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "extra",
+      "dots": "1346-2345-1235-1",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "sobres",
+      "dots": "234-135-23-1246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "vodca",
+      "dots": "1236-135-14-145-1",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "entrenen",
+      "dots": "15-1345-356-26-26",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "as",
+      "dots": "1-234",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "os",
+      "dots": "135-234",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "word",
+      "text": "ion",
+      "dots": "24-135-1345",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "adr",
+      "dots": "1-256",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "uen",
+      "dots": "136-26",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "quem",
+      "dots": "12345-126",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "uem",
+      "dots": "136-126",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "uer",
+      "dots": "136-236",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "always",
+      "text": "ues",
+      "dots": "136-1246",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "emando",
+      "dots": "126-146-145",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "emandos",
+      "dots": "126-146-145-234",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "imando",
+      "dots": "345-146-145",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "imandos",
+      "dots": "345-146-145-234",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "emente",
+      "dots": "15-134",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "ementes",
+      "dots": "15-134-234",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "imente",
+      "dots": "24-134",
+      "source": "es-g2.ctb"
+    },
+    {
+      "opcode": "endword",
+      "text": "imentes",
+      "dots": "24-134-234",
+      "source": "es-g2.ctb"
+    }
+  ]
+}

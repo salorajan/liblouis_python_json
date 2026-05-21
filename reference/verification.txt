@@ -1,0 +1,64 @@
+SKEPTICAL AUDIT REPORT - English UEB Grade 2
+============================================
+
+Summary:
+Forward Pass Rate: 0/400 (0.0%)
+Backward Pass Rate: 108/400 (27.0%)
+
+Details (First 50 cases):
+ID   | Input                          | Expected        | Actual          | Fwd  | Bwd 
+------------------------------------------------------------------------------------------
+1    | but                            |                 | B               | FAIL | PASS
+2    | can                            |                 | C               | FAIL | PASS
+3    | do                             |                 | D               | FAIL | PASS
+4    | every                          |                 | E               | FAIL | PASS
+5    | from                           |                 | F               | FAIL | PASS
+6    | go                             |                 | G               | FAIL | PASS
+7    | have                           |                 | H               | FAIL | PASS
+8    | just                           |                 | J               | FAIL | PASS
+9    | knowledge                      |                 | K               | FAIL | PASS
+10   | like                           |                 | L               | FAIL | PASS
+11   | more                           |                 | M               | FAIL | PASS
+12   | not                            |                 | N               | FAIL | PASS
+13   | people                         |                 | P               | FAIL | PASS
+14   | quite                          |                 | Q               | FAIL | PASS
+15   | rather                         |                 | R               | FAIL | PASS
+16   | so                             |                 | S               | FAIL | PASS
+17   | that                           |                 | T               | FAIL | PASS
+18   | us                             |                 | U               | FAIL | PASS
+19   | very                           |                 | V               | FAIL | PASS
+20   | will                           |                 | W               | FAIL | PASS
+21   | it                             |                 | X               | FAIL | PASS
+22   | you                            |                 | Y               | FAIL | PASS
+23   | as                             |                 | Z               | FAIL | PASS
+24   | and                            |                 | &               | FAIL | PASS
+25   | for                            |                 | =               | FAIL | PASS
+26   | of                             |                 | (               | FAIL | PASS
+27   | the                            |                 | !               | FAIL | PASS
+28   | with                           |                 | )               | FAIL | PASS
+29   | I can do it.                   |                 | ,I C D X4       | FAIL | FAIL
+30   | You will like it.              |                 | ,Y W L X4       | FAIL | FAIL
+31   | People like more knowledge.    |                 | ,P L M K4       | FAIL | FAIL
+32   | Every people can go from here. |                 | ,E P C G F "H4  | FAIL | FAIL
+33   | day                            |                 | "D              | FAIL | PASS
+34   | ever                           |                 | "E              | FAIL | PASS
+35   | father                         |                 | "F              | FAIL | PASS
+36   | here                           |                 | "H              | FAIL | PASS
+37   | know                           |                 | "K              | FAIL | PASS
+38   | lord                           |                 | "L              | FAIL | PASS
+39   | mother                         |                 | "M              | FAIL | PASS
+40   | name                           |                 | "N              | FAIL | PASS
+41   | one                            |                 | "O              | FAIL | PASS
+42   | part                           |                 | "P              | FAIL | PASS
+43   | question                       |                 | "Q              | FAIL | PASS
+44   | right                          |                 | "R              | FAIL | PASS
+45   | some                           |                 | "S              | FAIL | PASS
+46   | time                           |                 | "T              | FAIL | PASS
+47   | under                          |                 | "U              | FAIL | PASS
+48   | young                          |                 | "Y              | FAIL | PASS
+49   | work                           |                 | "W              | FAIL | PASS
+50   | about                          |                 | AB              | FAIL | PASS
+
+Audit Conclusion:
+FAILURE: The translator fails more than 50% of basic UEB Grade 2 contractions.
+Observation: The en-ueb-g2.json table is severely underspecified.

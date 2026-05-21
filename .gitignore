@@ -1,0 +1,39 @@
+# Ignore everything by default
+/*
+
+# Whitelist essential project files
+!/python_liblouis_json/
+!/public/
+!/reference/
+!/tests/
+!/tables_json/
+!/README.md
+!/MANUAL.md
+!/app_cli.py
+!/.github/
+!/.gitignore
+!/pyproject.toml
+
+# Exclude all root-level debug/test scripts
+/*.py
+!/public/init.py
+!/public/main.js
+!/app_cli.py
+
+# Exclude the deployment script
+/deploy.ps1
+
+# Exclude all intermediate reports and data
+/*.txt
+!/README.md
+/*.csv
+/*.tbl
+/*.ctb
+/*.uti
+/*.exe
+/*.dll
+
+# Standard Python ignores
+**/__pycache__/
+*.pyc
+.ipynb_checkpoints/

@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "python-liblouis"
+version = "3.30.0"
+description = "Pure Python port of liblouis Braille translation engine"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+  { name = "power_python Team" }
+]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: GNU Lesser General Public License v2 or later (LGPLv2+)",
+  "Operating System :: OS Independent",
+]
+
+[tool.setuptools]
+packages = ["louis", "python_liblouis"]
+
+[tool.setuptools.package-data]
+"*" = ["tables/*.ctb", "tables/*.uti", "tables/*.utb", "tables/*.cti", "tables/*.dic", "tables/*.dis"]

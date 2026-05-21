@@ -1,0 +1,4 @@
+remember python_liblouis_json project we did yesterday. we are inside the project folder with environment setup py_louis. now
+1. create translation tables  for Spanish, nemith, Hebrew and tamil. 
+2. add some test scripts in the tests folder to test Spanish, nemith, tamil, and Hebrew.
+this is stage1. I tink tamil and Hebrew dont have grade2 and backtranslation tables. it is ok just translate what is available. 
