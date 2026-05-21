@@ -27,18 +27,31 @@ async function setup() {
             'tables_json/en-ueb-g2.json'
         ];
 
-        // Ensure directories exist in Pyodide
-        pyodide.FS.mkdir('python_liblouis_json');
-        pyodide.FS.mkdir('tables_json');
-
         for (const file of files) {
             const response = await fetch(file);
+            if (!response.ok) throw new Error(`Failed to fetch ${file}: ${response.statusText}`);
             const data = new Uint8Array(await response.arrayBuffer());
+            
+            // Handle subdirectory files
+            const parts = file.split('/');
+            if (parts.length > 1) {
+                let current = '';
+                for (let i = 0; i < parts.length - 1; i++) {
+                    current += (current ? '/' : '') + parts[i];
+                    try {
+                        pyodide.FS.mkdir(current);
+                    } catch (e) {
+                        if (e.name !== 'ErrnoError' || e.errno !== 17) throw e;
+                    }
+                }
+            }
             pyodide.FS.writeFile(file, data);
         }
 
         // 2. Import and initialize
-        await pyodide.runPythonAsync(await (await fetch('init.py')).text());
+        const initResponse = await fetch('init.py');
+        if (!initResponse.ok) throw new Error(`Failed to fetch init.py: ${initResponse.statusText}`);
+        await pyodide.runPythonAsync(await initResponse.text());
         await pyodide.runPythonAsync(`initialize_engine("${getSelectedTable()}")`);
 
         statusEl.innerText = "Ready - UEB English";

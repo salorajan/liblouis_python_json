@@ -16,6 +16,7 @@
 !/index.html
 !/main.js
 !/init.py
+!/.nojekyll
 
 # Exclude all root-level debug/test scripts
 /*.py

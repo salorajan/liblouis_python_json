@@ -22,7 +22,7 @@ def initialize_engine(table_name="en-ueb-g2.json"):
     if not os.path.exists(table_path):
         raise FileNotFoundError(f"Table {table_name} not found in tables_json/")
         
-    table = parser.parse(table_path)
+    table = parser.parse(table_name)
     _translator = Translator(table)
     _current_table = table_name
     return True
