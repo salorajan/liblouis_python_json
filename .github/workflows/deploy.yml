@@ -1,15 +1,18 @@
-name: Deploy to GitHub Pages
-
+﻿# Version: 1.0.5
+# Created: 2026-05-21 09:11:00 MST
+# Description: Consolidated single-file deployment configuration for liblouis_python_json
+name: Deploy Static Pages Site
 on:
   push:
-    branches:
-      - main  # Set this to your default branch
-
+    branches: ["main"]
+  workflow_dispatch:
 permissions:
   contents: read
   pages: write
   id-token: write
-
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 jobs:
   deploy:
     environment:
@@ -17,18 +20,12 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: 1.0 Checkout repository
         uses: actions/checkout@v4
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-
-      - name: Upload artifact
+      - name: 2.0 Upload static artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # Upload the public directory
-          path: './public'
-
-      - name: Deploy to GitHub Pages
+          path: '.'
+      - name: 3.0 Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
